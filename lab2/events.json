@@ -1,0 +1,49 @@
+{
+    "num_movieItem": 15,
+    "recent_movieItem": [
+        {
+            "received_timestamp": "2024-01-25 13:02:58.152119",
+            "msg_data": "Movie title: Tenet, release date: 2016-08-29T09:12:33.001Z, and runtime: 120"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:58.087526",
+            "msg_data": "Movie title: Tenet, release date: 2016-08-29T09:12:33.001Z, and runtime: 120"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:58.021244",
+            "msg_data": "Movie title: Tenet, release date: 2016-08-29T09:12:33.001Z, and runtime: 120"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:57.999160",
+            "msg_data": "Movie title: Tenet, release date: 2016-08-29T09:12:33.001Z, and runtime: 120"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:57.961748",
+            "msg_data": "Movie title: Tenet, release date: 2016-08-29T09:12:33.001Z, and runtime: 120"
+        }
+    ],
+    "num_movieReview": 9,
+    "recent_movieReview": [
+        {
+            "received_timestamp": "2024-01-25 13:02:58.131789",
+            "msg_data": "Review user: movielover1998, review text: I loved this film!, rating: 7.5"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:58.108626",
+            "msg_data": "Review user: movielover1998, review text: I loved this film!, rating: 7.5"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:58.066028",
+            "msg_data": "Review user: movielover1998, review text: I loved this film!, rating: 7.5"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:58.045431",
+            "msg_data": "Review user: movielover1998, review text: I loved this film!, rating: 7.5"
+        },
+        {
+            "received_timestamp": "2024-01-25 13:02:57.979122",
+            "msg_data": "Review user: movielover1998, review text: I loved this film!, rating: 7.5"
+        }
+    ]
+}
+}

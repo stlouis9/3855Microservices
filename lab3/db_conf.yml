@@ -1,0 +1,7 @@
+version: 1
+datastore:
+  user: python
+  password: python
+  hostname: 127.0.0.1
+  port: 3306
+  db: events

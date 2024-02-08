@@ -1,0 +1,124 @@
+openapi: 3.0.0
+info:
+  description: This API receives data from movie reviewers
+  version: "1.0.0"
+  title: Movie API
+  contact:
+    email: rstlouis2@my.bcit.ca
+tags:
+  - name: moderator
+    description: Operations avaiable to moderators
+  - name: user
+    description: Operations available to regular users
+paths:
+  /movies/movieItem:
+    post:
+      tags:
+        - moderator
+      summary: creates a new movie
+      operationId: app.add_movie
+      description: adds a new movie to the system
+      responses:
+        '200':
+          description: item created
+        '400':
+          description: bad input parameter
+      requestBody:
+        content:
+            application/json:
+              schema:
+                  $ref: '#/components/schemas/MovieItem'
+        description: Movie item to add
+  /movies/review:
+    post:
+      tags:
+        - user
+      summary: creates a new movie review
+      operationId: app.add_movie_review
+      description: adds a new review to the system
+      responses:
+        '200':
+          description: review created
+        '400':
+          description: bad input parameter
+      requestBody:
+        content:
+            application/json:
+              schema:
+                  $ref: '#/components/schemas/Review'
+        description: Movie review to add
+components:
+  schemas:
+    MovieItem:
+      required:
+        - movie_id
+        - name
+        - releaseDate
+        - cast
+        - description
+        - genres
+        - runtime
+        - image
+      properties:
+        movie_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        name:
+          type: string
+          example: 'Tenet'
+        releaseDate:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+        cast:
+          type: string
+          example: 'John David Washington, Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Michael Caine, Kenneth Branagh'
+        description:
+          type: string
+          example: 'Armed with only one word - Tenet - and fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.'
+        genres:
+          type: string
+          example: 'Action, Sci-Fi, Thriller'
+        runtime:
+          type: integer
+          example: 120
+        image: 
+          type: string
+          format: url
+          example: 'https://image.tmdb.org/t/p/original/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg'
+      type: object
+    Review:
+      required:
+        - review_id
+        - username
+        - review_text
+        - movie_id
+        - rating
+        - timestamp
+      properties:
+        review_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        username:
+          type: string
+          example: 'movielover1998'
+        review_text:
+          type: string
+          example: 'I loved this film!'
+        movie_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        rating:
+          type: number
+          format: float
+          minimum: 0
+          maximum: 10
+          example: 7.5
+        timestamp:
+          type: string
+          format: date-time
+          example: '2016-08-29T09:12:33.001Z'
+      type: object
