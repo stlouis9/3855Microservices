@@ -1,0 +1,1575 @@
+2024-02-08 15:20:39,220 - basicLogger - ERROR - Error in get_reviews: unconverted data remains: .001Z
+2024-02-08 15:21:42,228 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 0 results
+2024-02-08 15:25:15,579 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 0 results
+2024-02-08 15:25:47,457 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of bc0313dd-b381-432f-a6a0-446c178f99be
+2024-02-08 15:25:50,936 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 1 results
+2024-02-11 20:04:43,685 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 1 results
+2024-02-11 20:05:35,257 - basicLogger - INFO - Query for Reviews after 2016-08-29T09:12:33 returns 0 results
+2024-02-14 22:24:17,144 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of e818a1ba-18c0-48b4-926c-168b9b6aadaa
+2024-02-14 22:46:49,632 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 1 results
+2024-02-14 22:50:46,644 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:50:44.597269' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:50:51,629 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:50:49.591988' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:50:56,620 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:50:54.590861' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:51:23,296 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:51:21.247425' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:51:28,275 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:51:26.248361' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:51:33,292 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:51:31.247885' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:51:38,307 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:51:36.254300' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:52:47,313 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:52:45.276635' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:52:52,308 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:52:50.272662' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:52:57,309 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:52:55.274083' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:53:07,488 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:53:05.439159' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:53:12,478 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:53:10.440772' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:53:38,118 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:53:36.081451' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:53:43,113 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:53:41.076057' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:54:12,016 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 1 results
+2024-02-14 22:55:00,415 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:54:58.380208' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:55:05,407 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:03.369078' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:55:10,409 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:08.370948' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:55:15,406 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:13.371721' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:55:25,036 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:22.991864' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:55:30,024 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:28.003185' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:55:51,814 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:49.765676' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:55:56,790 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:54.753733' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:56:01,783 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:55:59.749578' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:56:06,781 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:56:04.753376' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:56:11,790 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:56:09.759372' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:56:16,798 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:56:14.757308' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:56:21,797 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:56:19.758665' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 22:58:41,808 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 22:58:39.756147' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:02:52,972 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 1 results
+2024-02-14 23:02:59,446 - basicLogger - ERROR - Error in get movies: unconverted data remains: .50
+2024-02-14 23:03:01,683 - basicLogger - ERROR - Error in get movies: unconverted data remains: .50
+2024-02-14 23:03:21,359 - basicLogger - ERROR - Error in get movies: unconverted data remains: .756147
+2024-02-14 23:03:26,278 - basicLogger - INFO - Query for Movie Items after 2016-08-29T09:12:33 returns 1 results
+2024-02-14 23:04:30,937 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:04:28.882029' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:04:35,924 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:04:33.872940' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:04:40,913 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:04:38.871440' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:06,891 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:04.832872' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:11,866 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:09.831061' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:16,859 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:14.828890' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:21,857 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:19.829540' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:26,867 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:24.829416' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:31,879 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:29.825705' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:36,893 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:34.837429' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:41,871 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:39.836879' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:46,868 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:44.825554' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:51,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:49.830923' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:05:56,871 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:54.825049' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:01,863 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:05:59.823565' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:06,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:04.831436' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:11,862 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:09.825642' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:16,869 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:14.825780' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:21,884 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:19.838130' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:26,866 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:24.825468' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:31,866 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:29.827858' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:36,878 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:34.833398' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:41,867 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:39.828335' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:46,860 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:44.826224' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:51,849 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:49.823241' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:06:56,880 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:54.836057' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:01,877 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:06:59.836387' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:06,866 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:04.823261' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:11,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:09.826794' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:16,861 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:14.823361' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:21,864 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:19.830118' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:26,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:24.830014' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:31,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:29.827282' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:36,867 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:34.823456' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:41,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:39.825626' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:46,878 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:44.838227' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:51,865 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:49.826487' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:07:56,888 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:54.836160' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:01,869 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:07:59.834011' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:06,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:04.828302' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:11,860 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:09.823743' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:16,880 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:14.835078' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:21,873 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:19.829759' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:26,873 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:24.839674' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:31,881 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:29.838112' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:36,881 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:34.836492' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:41,866 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:39.828388' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:46,896 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:44.836839' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:51,875 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:49.827346' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:08:56,900 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:54.836523' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:09:01,877 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:08:59.837967' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:09:06,892 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:09:04.837020' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:09:11,891 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:09:09.829544' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:09:16,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:09:14.831163' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:09:21,867 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:09:19.826742' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:06,891 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:04.833838' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:11,864 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:09.825981' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:16,865 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:14.830124' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:21,886 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:19.831133' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:28,907 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:24.827292' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:31,875 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:29.825717' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:36,874 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:34.830974' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:41,875 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:39.830039' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:10:46,860 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:10:44.822920' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:11:22,902 - basicLogger - ERROR - Error in get movies: time data '2024-02-13 23:11:19.831868' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-14 23:11:42,182 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:11:40 returns 1 results
+2024-02-14 23:11:44,264 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:11:40 returns 0 results
+2024-02-14 23:11:47,120 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:11:45 returns 1 results
+2024-02-14 23:11:49,176 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:11:45 returns 0 results
+2024-02-14 23:11:52,118 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:11:50 returns 1 results
+2024-02-14 23:11:54,163 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:11:50 returns 0 results
+2024-02-14 23:11:57,114 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:11:55 returns 1 results
+2024-02-14 23:11:59,163 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:11:55 returns 0 results
+2024-02-14 23:12:02,125 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:00 returns 1 results
+2024-02-14 23:12:04,177 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:00 returns 0 results
+2024-02-14 23:12:07,122 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:05 returns 1 results
+2024-02-14 23:12:09,184 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:05 returns 0 results
+2024-02-14 23:12:12,129 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:10 returns 1 results
+2024-02-14 23:12:14,180 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:10 returns 0 results
+2024-02-14 23:12:17,118 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:15 returns 1 results
+2024-02-14 23:12:19,170 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:15 returns 0 results
+2024-02-14 23:12:22,117 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:20 returns 1 results
+2024-02-14 23:12:24,158 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:20 returns 0 results
+2024-02-14 23:12:27,119 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:25 returns 1 results
+2024-02-14 23:12:29,178 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:25 returns 0 results
+2024-02-14 23:12:32,126 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:30 returns 1 results
+2024-02-14 23:12:34,171 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:30 returns 0 results
+2024-02-14 23:12:37,125 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:35 returns 1 results
+2024-02-14 23:12:47,158 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:45 returns 1 results
+2024-02-14 23:12:49,215 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:45 returns 0 results
+2024-02-14 23:12:52,118 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:50 returns 1 results
+2024-02-14 23:12:54,175 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:50 returns 0 results
+2024-02-14 23:12:57,117 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:12:55 returns 1 results
+2024-02-14 23:12:59,167 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:12:55 returns 0 results
+2024-02-14 23:13:02,117 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:00 returns 1 results
+2024-02-14 23:13:04,167 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:00 returns 0 results
+2024-02-14 23:13:07,122 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:05 returns 1 results
+2024-02-14 23:13:09,174 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:05 returns 0 results
+2024-02-14 23:13:12,115 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:10 returns 1 results
+2024-02-14 23:13:14,152 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:10 returns 0 results
+2024-02-14 23:13:17,113 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:15 returns 1 results
+2024-02-14 23:13:19,159 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:15 returns 0 results
+2024-02-14 23:13:22,113 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:20 returns 1 results
+2024-02-14 23:13:24,161 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:20 returns 0 results
+2024-02-14 23:13:27,115 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:25 returns 1 results
+2024-02-14 23:13:29,172 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:25 returns 0 results
+2024-02-14 23:13:32,126 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:30 returns 1 results
+2024-02-14 23:13:34,175 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:30 returns 0 results
+2024-02-14 23:13:37,102 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:35 returns 1 results
+2024-02-14 23:13:39,145 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:35 returns 0 results
+2024-02-14 23:13:42,127 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:40 returns 1 results
+2024-02-14 23:13:44,187 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:40 returns 0 results
+2024-02-14 23:13:47,127 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:45 returns 1 results
+2024-02-14 23:13:49,196 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:45 returns 0 results
+2024-02-14 23:13:52,113 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:50 returns 1 results
+2024-02-14 23:13:54,157 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:50 returns 0 results
+2024-02-14 23:13:57,108 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:13:55 returns 1 results
+2024-02-14 23:13:59,163 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:13:55 returns 0 results
+2024-02-14 23:14:02,120 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:00 returns 1 results
+2024-02-14 23:14:04,174 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:00 returns 0 results
+2024-02-14 23:14:07,118 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:05 returns 1 results
+2024-02-14 23:14:09,161 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:05 returns 0 results
+2024-02-14 23:14:12,117 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:10 returns 1 results
+2024-02-14 23:14:14,160 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:10 returns 0 results
+2024-02-14 23:14:17,116 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:15 returns 1 results
+2024-02-14 23:14:19,163 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:15 returns 0 results
+2024-02-14 23:14:22,126 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:20 returns 1 results
+2024-02-14 23:14:24,177 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:20 returns 0 results
+2024-02-14 23:14:27,109 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:25 returns 1 results
+2024-02-14 23:14:29,149 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:25 returns 0 results
+2024-02-14 23:14:32,130 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:30 returns 1 results
+2024-02-14 23:14:34,174 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:30 returns 0 results
+2024-02-14 23:14:37,112 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:35 returns 1 results
+2024-02-14 23:14:39,167 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:35 returns 0 results
+2024-02-14 23:14:42,116 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:40 returns 1 results
+2024-02-14 23:14:44,157 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:40 returns 0 results
+2024-02-14 23:14:47,104 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:45 returns 1 results
+2024-02-14 23:14:49,155 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:45 returns 0 results
+2024-02-14 23:14:52,110 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:50 returns 1 results
+2024-02-14 23:14:54,170 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:50 returns 0 results
+2024-02-14 23:14:57,110 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:14:55 returns 1 results
+2024-02-14 23:14:59,147 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:14:55 returns 0 results
+2024-02-14 23:15:02,131 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:00 returns 1 results
+2024-02-14 23:15:04,174 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:00 returns 0 results
+2024-02-14 23:15:07,117 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:05 returns 1 results
+2024-02-14 23:15:09,175 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:05 returns 0 results
+2024-02-14 23:15:12,100 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:10 returns 1 results
+2024-02-14 23:15:14,141 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:10 returns 0 results
+2024-02-14 23:15:17,124 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:15 returns 1 results
+2024-02-14 23:15:19,177 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:15 returns 0 results
+2024-02-14 23:15:22,108 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:20 returns 1 results
+2024-02-14 23:15:24,161 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:20 returns 0 results
+2024-02-14 23:15:27,133 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:25 returns 1 results
+2024-02-14 23:15:29,184 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:25 returns 0 results
+2024-02-14 23:15:32,126 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:30 returns 1 results
+2024-02-14 23:15:34,189 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:30 returns 0 results
+2024-02-14 23:15:37,118 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:35 returns 1 results
+2024-02-14 23:15:39,171 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:35 returns 0 results
+2024-02-14 23:15:42,120 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:40 returns 1 results
+2024-02-14 23:15:44,160 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:40 returns 0 results
+2024-02-14 23:15:47,109 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:45 returns 1 results
+2024-02-14 23:15:49,158 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:45 returns 0 results
+2024-02-14 23:15:52,117 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:50 returns 1 results
+2024-02-14 23:15:54,171 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:50 returns 0 results
+2024-02-14 23:15:57,097 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:15:55 returns 1 results
+2024-02-14 23:15:59,151 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:15:55 returns 0 results
+2024-02-14 23:16:42,732 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:16:40 returns 1 results
+2024-02-14 23:16:44,776 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:16:40 returns 0 results
+2024-02-14 23:16:47,727 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:16:45 returns 1 results
+2024-02-14 23:16:49,775 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:16:45 returns 0 results
+2024-02-14 23:16:52,728 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:16:50 returns 1 results
+2024-02-14 23:16:54,785 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:16:50 returns 0 results
+2024-02-14 23:16:57,727 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:16:55 returns 1 results
+2024-02-14 23:16:59,770 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:16:55 returns 0 results
+2024-02-14 23:17:02,727 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:00 returns 1 results
+2024-02-14 23:17:04,764 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:00 returns 0 results
+2024-02-14 23:17:07,719 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:05 returns 1 results
+2024-02-14 23:17:09,767 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:05 returns 0 results
+2024-02-14 23:17:12,727 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:10 returns 1 results
+2024-02-14 23:17:14,768 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:10 returns 0 results
+2024-02-14 23:17:17,726 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:15 returns 1 results
+2024-02-14 23:17:19,782 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:15 returns 0 results
+2024-02-14 23:17:29,829 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:27 returns 1 results
+2024-02-14 23:17:31,875 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:27 returns 0 results
+2024-02-14 23:17:34,798 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:32 returns 1 results
+2024-02-14 23:17:36,845 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:32 returns 0 results
+2024-02-14 23:17:39,802 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:37 returns 1 results
+2024-02-14 23:17:41,854 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:37 returns 0 results
+2024-02-14 23:17:44,809 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:17:42 returns 1 results
+2024-02-14 23:17:46,877 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:17:42 returns 0 results
+2024-02-14 23:18:19,673 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:18:17 returns 1 results
+2024-02-14 23:18:21,718 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:18:17 returns 0 results
+2024-02-14 23:18:24,634 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:18:22 returns 1 results
+2024-02-14 23:18:26,681 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:18:22 returns 0 results
+2024-02-14 23:18:29,634 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:18:27 returns 1 results
+2024-02-14 23:18:31,691 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:18:27 returns 0 results
+2024-02-14 23:18:34,642 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:18:32 returns 1 results
+2024-02-14 23:18:36,698 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:18:32 returns 0 results
+2024-02-14 23:18:39,656 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:18:37 returns 1 results
+2024-02-14 23:18:41,711 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:18:37 returns 0 results
+2024-02-14 23:20:02,745 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:20:00 returns 1 results
+2024-02-14 23:20:04,795 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:20:00 returns 0 results
+2024-02-14 23:20:07,723 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:20:05 returns 1 results
+2024-02-14 23:20:09,773 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:20:05 returns 0 results
+2024-02-14 23:20:12,724 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:20:10 returns 1 results
+2024-02-14 23:20:14,781 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:20:10 returns 0 results
+2024-02-14 23:21:10,643 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:21:08 returns 1 results
+2024-02-14 23:21:12,689 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:21:08 returns 0 results
+2024-02-14 23:21:15,632 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:21:13 returns 1 results
+2024-02-14 23:21:17,690 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:21:13 returns 0 results
+2024-02-14 23:21:20,623 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:21:18 returns 1 results
+2024-02-14 23:21:22,680 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:21:18 returns 0 results
+2024-02-14 23:21:46,584 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:21:44 returns 1 results
+2024-02-14 23:21:48,643 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:21:44 returns 0 results
+2024-02-14 23:21:51,589 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:21:49 returns 1 results
+2024-02-14 23:21:53,648 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:21:49 returns 0 results
+2024-02-14 23:21:56,563 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:21:54 returns 1 results
+2024-02-14 23:21:58,626 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:21:54 returns 0 results
+2024-02-14 23:22:01,568 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:21:59 returns 1 results
+2024-02-14 23:22:03,616 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:21:59 returns 0 results
+2024-02-14 23:22:06,563 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:22:04 returns 1 results
+2024-02-14 23:22:08,618 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:22:04 returns 0 results
+2024-02-14 23:22:11,573 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:22:09 returns 1 results
+2024-02-14 23:22:13,629 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:22:09 returns 0 results
+2024-02-14 23:22:16,579 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:22:14 returns 1 results
+2024-02-14 23:22:18,631 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:22:14 returns 0 results
+2024-02-14 23:31:43,279 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:31:41 returns 1 results
+2024-02-14 23:31:45,325 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:31:41 returns 0 results
+2024-02-14 23:31:48,249 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:31:46 returns 1 results
+2024-02-14 23:31:50,299 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:31:46 returns 0 results
+2024-02-14 23:31:53,254 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:31:51 returns 1 results
+2024-02-14 23:31:55,293 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:31:51 returns 0 results
+2024-02-14 23:33:36,648 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:33:34 returns 1 results
+2024-02-14 23:33:38,692 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:33:34 returns 0 results
+2024-02-14 23:33:41,655 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:33:39 returns 1 results
+2024-02-14 23:33:43,690 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:33:39 returns 0 results
+2024-02-14 23:34:14,947 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:34:12 returns 1 results
+2024-02-14 23:34:16,997 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:34:12 returns 0 results
+2024-02-14 23:34:19,918 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:34:17 returns 1 results
+2024-02-14 23:34:21,968 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:34:17 returns 0 results
+2024-02-14 23:34:24,924 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:34:22 returns 1 results
+2024-02-14 23:34:26,970 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:34:22 returns 0 results
+2024-02-14 23:35:00,161 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:34:58 returns 1 results
+2024-02-14 23:35:02,209 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:34:58 returns 0 results
+2024-02-14 23:35:05,145 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:35:03 returns 1 results
+2024-02-14 23:35:07,193 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:35:03 returns 0 results
+2024-02-14 23:35:38,129 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:35:36 returns 1 results
+2024-02-14 23:35:40,172 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:35:36 returns 0 results
+2024-02-14 23:35:43,109 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:35:41 returns 1 results
+2024-02-14 23:35:45,151 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:35:41 returns 0 results
+2024-02-14 23:36:31,257 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:36:29 returns 1 results
+2024-02-14 23:36:33,305 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:36:29 returns 0 results
+2024-02-14 23:36:36,252 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:36:34 returns 1 results
+2024-02-14 23:36:38,300 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:36:34 returns 0 results
+2024-02-14 23:36:41,251 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:36:39 returns 1 results
+2024-02-14 23:36:43,302 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:36:39 returns 0 results
+2024-02-14 23:37:52,571 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:37:50 returns 1 results
+2024-02-14 23:37:54,616 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:37:50 returns 0 results
+2024-02-14 23:37:57,569 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:37:55 returns 1 results
+2024-02-14 23:37:59,623 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:37:55 returns 0 results
+2024-02-14 23:38:02,562 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:38:00 returns 1 results
+2024-02-14 23:38:04,603 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:38:00 returns 0 results
+2024-02-14 23:38:07,561 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:38:05 returns 1 results
+2024-02-14 23:38:09,617 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:38:05 returns 0 results
+2024-02-14 23:38:18,390 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:38:16 returns 1 results
+2024-02-14 23:38:20,442 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:38:16 returns 0 results
+2024-02-14 23:38:23,377 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:38:21 returns 1 results
+2024-02-14 23:38:25,429 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:38:21 returns 0 results
+2024-02-14 23:39:24,574 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:39:22 returns 1 results
+2024-02-14 23:39:26,617 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:39:22 returns 0 results
+2024-02-14 23:39:29,584 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:39:27 returns 1 results
+2024-02-14 23:39:31,631 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:39:27 returns 0 results
+2024-02-14 23:39:44,557 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:39:42 returns 1 results
+2024-02-14 23:39:46,608 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:39:42 returns 0 results
+2024-02-14 23:39:49,555 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:39:47 returns 1 results
+2024-02-14 23:39:51,597 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:39:47 returns 0 results
+2024-02-14 23:39:54,540 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:39:52 returns 1 results
+2024-02-14 23:39:56,582 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:39:52 returns 0 results
+2024-02-14 23:39:59,540 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:39:57 returns 1 results
+2024-02-14 23:40:01,586 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:39:57 returns 0 results
+2024-02-14 23:40:04,538 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:02 returns 1 results
+2024-02-14 23:40:06,581 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:02 returns 0 results
+2024-02-14 23:40:16,261 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:14 returns 1 results
+2024-02-14 23:40:18,303 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:14 returns 0 results
+2024-02-14 23:40:21,249 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:19 returns 1 results
+2024-02-14 23:40:23,292 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:19 returns 0 results
+2024-02-14 23:40:26,265 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:24 returns 1 results
+2024-02-14 23:40:28,310 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:24 returns 0 results
+2024-02-14 23:40:31,259 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:29 returns 1 results
+2024-02-14 23:40:33,321 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:29 returns 0 results
+2024-02-14 23:40:36,256 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:34 returns 1 results
+2024-02-14 23:40:38,315 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:34 returns 0 results
+2024-02-14 23:40:47,329 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:45 returns 1 results
+2024-02-14 23:40:49,380 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:45 returns 0 results
+2024-02-14 23:40:52,311 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:40:50 returns 1 results
+2024-02-14 23:40:54,360 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:40:50 returns 0 results
+2024-02-14 23:42:18,112 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:16 returns 1 results
+2024-02-14 23:42:20,153 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:16 returns 0 results
+2024-02-14 23:42:23,121 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:21 returns 1 results
+2024-02-14 23:42:25,167 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:21 returns 0 results
+2024-02-14 23:42:28,109 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:26 returns 1 results
+2024-02-14 23:42:30,160 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:26 returns 0 results
+2024-02-14 23:42:33,121 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:31 returns 1 results
+2024-02-14 23:42:35,170 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:31 returns 0 results
+2024-02-14 23:42:38,119 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:36 returns 1 results
+2024-02-14 23:42:40,158 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:36 returns 0 results
+2024-02-14 23:42:43,129 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:41 returns 1 results
+2024-02-14 23:42:45,170 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:41 returns 0 results
+2024-02-14 23:42:48,117 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:46 returns 1 results
+2024-02-14 23:42:50,168 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:46 returns 0 results
+2024-02-14 23:42:53,113 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:51 returns 1 results
+2024-02-14 23:42:55,158 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:51 returns 0 results
+2024-02-14 23:42:58,122 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:42:56 returns 1 results
+2024-02-14 23:43:00,164 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:42:56 returns 0 results
+2024-02-14 23:43:03,122 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:43:01 returns 1 results
+2024-02-14 23:43:05,164 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:43:01 returns 0 results
+2024-02-14 23:43:08,097 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:43:06 returns 1 results
+2024-02-14 23:43:10,145 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:43:06 returns 0 results
+2024-02-14 23:43:13,121 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:43:11 returns 1 results
+2024-02-14 23:43:15,164 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:43:11 returns 0 results
+2024-02-14 23:43:18,112 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:43:16 returns 1 results
+2024-02-14 23:43:20,162 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:43:16 returns 0 results
+2024-02-14 23:43:23,108 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:43:21 returns 1 results
+2024-02-14 23:43:25,148 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:43:21 returns 0 results
+2024-02-14 23:43:28,108 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:43:26 returns 1 results
+2024-02-14 23:43:30,148 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:43:26 returns 0 results
+2024-02-14 23:44:31,231 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:44:29 returns 1 results
+2024-02-14 23:44:33,280 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:44:29 returns 0 results
+2024-02-14 23:44:36,226 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:44:34 returns 1 results
+2024-02-14 23:44:38,269 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:44:34 returns 0 results
+2024-02-14 23:44:41,214 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:44:39 returns 1 results
+2024-02-14 23:44:43,261 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:44:39 returns 0 results
+2024-02-14 23:44:46,222 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:44:44 returns 1 results
+2024-02-14 23:44:48,265 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:44:44 returns 0 results
+2024-02-14 23:44:51,220 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:44:49 returns 1 results
+2024-02-14 23:44:53,251 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:44:49 returns 0 results
+2024-02-14 23:44:56,228 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:44:54 returns 1 results
+2024-02-14 23:44:58,271 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:44:54 returns 0 results
+2024-02-14 23:45:01,229 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:44:59 returns 1 results
+2024-02-14 23:45:03,271 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:44:59 returns 0 results
+2024-02-14 23:45:06,213 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:04 returns 1 results
+2024-02-14 23:45:08,250 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:04 returns 0 results
+2024-02-14 23:45:11,232 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:09 returns 1 results
+2024-02-14 23:45:13,281 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:09 returns 0 results
+2024-02-14 23:45:16,223 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:14 returns 1 results
+2024-02-14 23:45:18,267 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:14 returns 0 results
+2024-02-14 23:45:21,222 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:19 returns 1 results
+2024-02-14 23:45:23,264 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:19 returns 0 results
+2024-02-14 23:45:26,224 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:24 returns 1 results
+2024-02-14 23:45:28,270 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:24 returns 0 results
+2024-02-14 23:45:31,217 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:29 returns 1 results
+2024-02-14 23:45:33,241 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:29 returns 0 results
+2024-02-14 23:45:36,223 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:34 returns 1 results
+2024-02-14 23:45:38,268 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:34 returns 0 results
+2024-02-14 23:45:41,258 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:45:39 returns 1 results
+2024-02-14 23:45:43,297 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:45:39 returns 0 results
+2024-02-14 23:47:10,315 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:47:08 returns 1 results
+2024-02-14 23:47:12,364 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:47:08 returns 0 results
+2024-02-14 23:48:40,619 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:48:38 returns 1 results
+2024-02-14 23:48:42,671 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:48:38 returns 0 results
+2024-02-14 23:48:45,598 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:48:43 returns 1 results
+2024-02-14 23:48:47,644 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:48:43 returns 0 results
+2024-02-14 23:51:06,912 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:51:04 returns 1 results
+2024-02-14 23:51:08,963 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:51:04 returns 0 results
+2024-02-14 23:51:11,887 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:51:09 returns 1 results
+2024-02-14 23:51:13,939 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:51:09 returns 0 results
+2024-02-14 23:51:16,900 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:51:14 returns 1 results
+2024-02-14 23:51:18,939 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:51:14 returns 0 results
+2024-02-14 23:52:36,643 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:52:34 returns 1 results
+2024-02-14 23:52:38,687 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:52:34 returns 0 results
+2024-02-14 23:52:41,621 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:52:39 returns 1 results
+2024-02-14 23:52:43,661 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:52:39 returns 0 results
+2024-02-14 23:52:46,644 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:52:44 returns 1 results
+2024-02-14 23:52:48,666 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:52:44 returns 0 results
+2024-02-14 23:53:51,378 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:53:49 returns 1 results
+2024-02-14 23:53:53,439 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:53:49 returns 0 results
+2024-02-14 23:53:56,348 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:53:54 returns 1 results
+2024-02-14 23:53:58,400 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:53:54 returns 0 results
+2024-02-14 23:54:01,382 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:53:59 returns 1 results
+2024-02-14 23:54:03,433 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:53:59 returns 0 results
+2024-02-14 23:54:06,372 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:54:04 returns 1 results
+2024-02-14 23:54:08,408 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:54:04 returns 0 results
+2024-02-14 23:54:11,377 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:54:09 returns 1 results
+2024-02-14 23:54:13,437 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:54:09 returns 0 results
+2024-02-14 23:54:35,961 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:54:33 returns 1 results
+2024-02-14 23:54:38,015 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:54:33 returns 0 results
+2024-02-14 23:54:40,944 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:54:38 returns 1 results
+2024-02-14 23:54:42,983 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:54:38 returns 0 results
+2024-02-14 23:54:58,874 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:54:56 returns 1 results
+2024-02-14 23:55:00,925 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:54:56 returns 0 results
+2024-02-14 23:55:03,867 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:55:01 returns 1 results
+2024-02-14 23:55:05,894 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:55:01 returns 0 results
+2024-02-14 23:55:26,800 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:55:24 returns 1 results
+2024-02-14 23:55:28,844 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:55:24 returns 0 results
+2024-02-14 23:55:31,796 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:55:29 returns 1 results
+2024-02-14 23:55:33,843 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:55:29 returns 0 results
+2024-02-14 23:55:36,783 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:55:34 returns 1 results
+2024-02-14 23:55:38,828 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:55:34 returns 0 results
+2024-02-14 23:55:59,641 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:55:57 returns 1 results
+2024-02-14 23:56:01,679 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:55:57 returns 0 results
+2024-02-14 23:56:04,608 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:56:02 returns 1 results
+2024-02-14 23:56:06,652 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:56:02 returns 0 results
+2024-02-14 23:56:24,986 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:56:22 returns 1 results
+2024-02-14 23:56:27,034 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:56:22 returns 0 results
+2024-02-14 23:58:19,611 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:58:17 returns 1 results
+2024-02-14 23:58:21,651 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:58:17 returns 0 results
+2024-02-14 23:58:24,606 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:58:22 returns 1 results
+2024-02-14 23:58:26,638 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:58:22 returns 0 results
+2024-02-14 23:58:43,539 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:58:41 returns 1 results
+2024-02-14 23:58:45,578 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:58:41 returns 0 results
+2024-02-14 23:58:48,528 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:58:46 returns 1 results
+2024-02-14 23:58:50,573 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:58:46 returns 0 results
+2024-02-14 23:58:53,529 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:58:51 returns 1 results
+2024-02-14 23:58:55,567 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:58:51 returns 0 results
+2024-02-14 23:58:58,524 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:58:56 returns 1 results
+2024-02-14 23:59:00,564 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:58:56 returns 0 results
+2024-02-14 23:59:09,187 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:59:07 returns 1 results
+2024-02-14 23:59:11,220 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:59:07 returns 0 results
+2024-02-14 23:59:14,200 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:59:12 returns 1 results
+2024-02-14 23:59:16,243 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:59:12 returns 0 results
+2024-02-14 23:59:19,189 - basicLogger - INFO - Query for Movie Items after 2024-02-13T23:59:17 returns 1 results
+2024-02-14 23:59:21,222 - basicLogger - INFO - Query for Reviews after 2024-02-13T23:59:17 returns 0 results
+2024-02-15 00:01:25,016 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:01:22 returns 1 results
+2024-02-15 00:01:27,047 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:01:22 returns 0 results
+2024-02-15 00:01:29,996 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:01:27 returns 1 results
+2024-02-15 00:01:32,028 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:01:27 returns 0 results
+2024-02-15 00:02:56,748 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:02:54 returns 1 results
+2024-02-15 00:02:58,799 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:02:54 returns 0 results
+2024-02-15 00:03:01,736 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:02:59 returns 1 results
+2024-02-15 00:03:03,780 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:02:59 returns 0 results
+2024-02-15 00:08:44,596 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:08:42 returns 1 results
+2024-02-15 00:08:46,644 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:08:42 returns 0 results
+2024-02-15 00:08:49,581 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:08:47 returns 1 results
+2024-02-15 00:08:51,615 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:08:47 returns 0 results
+2024-02-15 00:10:58,774 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:10:56 returns 1 results
+2024-02-15 00:11:00,816 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:10:56 returns 0 results
+2024-02-15 00:11:03,776 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:11:01 returns 1 results
+2024-02-15 00:11:05,812 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:11:01 returns 0 results
+2024-02-15 00:11:26,880 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:11:24 returns 1 results
+2024-02-15 00:11:28,930 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:11:24 returns 0 results
+2024-02-15 00:11:31,878 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:11:29 returns 1 results
+2024-02-15 00:11:33,919 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:11:29 returns 0 results
+2024-02-15 00:11:36,874 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:11:34 returns 1 results
+2024-02-15 00:11:38,910 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:11:34 returns 0 results
+2024-02-15 00:11:41,855 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:11:39 returns 1 results
+2024-02-15 00:11:43,897 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:11:39 returns 0 results
+2024-02-15 00:11:46,867 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:11:44 returns 1 results
+2024-02-15 00:11:48,913 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:11:44 returns 0 results
+2024-02-15 00:12:24,842 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:12:22 returns 1 results
+2024-02-15 00:12:26,869 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:12:22 returns 0 results
+2024-02-15 00:12:29,831 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:12:27 returns 1 results
+2024-02-15 00:12:31,877 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:12:27 returns 0 results
+2024-02-15 00:12:34,817 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:12:32 returns 1 results
+2024-02-15 00:12:36,868 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:12:32 returns 0 results
+2024-02-15 00:12:39,812 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:12:37 returns 1 results
+2024-02-15 00:12:41,857 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:12:37 returns 0 results
+2024-02-15 00:12:44,819 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:12:42 returns 1 results
+2024-02-15 00:12:46,861 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:12:42 returns 0 results
+2024-02-15 00:12:49,824 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:12:47 returns 1 results
+2024-02-15 00:12:51,860 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:12:47 returns 0 results
+2024-02-15 00:12:54,837 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:12:52 returns 1 results
+2024-02-15 00:12:56,891 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:12:52 returns 0 results
+2024-02-15 00:13:05,497 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:13:03 returns 1 results
+2024-02-15 00:13:07,532 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:13:03 returns 0 results
+2024-02-15 00:13:10,468 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:13:08 returns 1 results
+2024-02-15 00:13:12,521 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:13:08 returns 0 results
+2024-02-15 00:13:37,814 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:13:35 returns 1 results
+2024-02-15 00:13:39,844 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:13:35 returns 0 results
+2024-02-15 00:13:42,800 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:13:40 returns 1 results
+2024-02-15 00:13:44,846 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:13:40 returns 0 results
+2024-02-15 00:13:47,797 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:13:45 returns 1 results
+2024-02-15 00:13:49,830 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:13:45 returns 0 results
+2024-02-15 00:14:41,544 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:14:39 returns 1 results
+2024-02-15 00:14:43,579 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:14:39 returns 0 results
+2024-02-15 00:14:46,558 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:14:44 returns 1 results
+2024-02-15 00:14:48,597 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:14:44 returns 0 results
+2024-02-15 00:15:04,773 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:15:02 returns 1 results
+2024-02-15 00:15:06,800 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:15:02 returns 0 results
+2024-02-15 00:15:09,747 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:15:07 returns 1 results
+2024-02-15 00:15:11,780 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:15:07 returns 0 results
+2024-02-15 00:15:43,935 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:15:41 returns 1 results
+2024-02-15 00:15:45,974 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:15:41 returns 0 results
+2024-02-15 00:15:48,948 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:15:46 returns 1 results
+2024-02-15 00:15:50,986 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:15:46 returns 0 results
+2024-02-15 00:16:38,953 - basicLogger - DEBUG - Stored event <Review> request with a trace id of c21913b1-898b-49d1-a127-98a764ae720d
+2024-02-15 00:16:57,169 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:16:55 returns 1 results
+2024-02-15 00:16:59,215 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:16:55 returns 1 results
+2024-02-15 00:17:02,168 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:17:00 returns 1 results
+2024-02-15 00:17:04,206 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:17:00 returns 1 results
+2024-02-15 00:17:07,163 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:17:05 returns 1 results
+2024-02-15 00:17:09,212 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:17:05 returns 1 results
+2024-02-15 00:17:12,156 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:17:10 returns 1 results
+2024-02-15 00:17:14,194 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:17:10 returns 1 results
+2024-02-15 00:17:48,354 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:17:46 returns 1 results
+2024-02-15 00:17:50,401 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:17:46 returns 1 results
+2024-02-15 00:17:53,353 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:17:51 returns 1 results
+2024-02-15 00:17:55,401 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:17:51 returns 1 results
+2024-02-15 00:17:58,344 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:17:56 returns 1 results
+2024-02-15 00:18:00,373 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:17:56 returns 1 results
+2024-02-15 00:18:40,290 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:18:38 returns 1 results
+2024-02-15 00:18:42,337 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:18:38 returns 1 results
+2024-02-15 00:18:45,291 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:18:43 returns 1 results
+2024-02-15 00:18:47,324 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:18:43 returns 1 results
+2024-02-15 00:19:44,346 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:19:42 returns 1 results
+2024-02-15 00:19:46,385 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:19:42 returns 1 results
+2024-02-15 00:19:49,358 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:19:47 returns 1 results
+2024-02-15 00:19:51,393 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:19:47 returns 1 results
+2024-02-15 00:19:54,337 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:19:52 returns 1 results
+2024-02-15 00:19:56,379 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:19:52 returns 1 results
+2024-02-15 00:19:59,344 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:19:57 returns 1 results
+2024-02-15 00:20:01,382 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:19:57 returns 1 results
+2024-02-15 00:20:30,401 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:20:28 returns 1 results
+2024-02-15 00:20:32,453 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:20:28 returns 1 results
+2024-02-15 00:20:35,367 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:20:33 returns 1 results
+2024-02-15 00:20:37,411 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:20:33 returns 1 results
+2024-02-15 00:26:42,012 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:26:39 returns 1 results
+2024-02-15 00:26:44,061 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:26:39 returns 1 results
+2024-02-15 00:26:47,019 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:26:44 returns 1 results
+2024-02-15 00:26:49,054 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:26:44 returns 1 results
+2024-02-15 00:27:52,416 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:27:50 returns 1 results
+2024-02-15 00:27:54,439 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:27:50 returns 1 results
+2024-02-15 00:27:57,397 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:27:55 returns 1 results
+2024-02-15 00:27:59,421 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:27:55 returns 1 results
+2024-02-15 00:28:02,400 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:28:00 returns 1 results
+2024-02-15 00:28:04,438 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:28:00 returns 1 results
+2024-02-15 00:28:07,385 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:28:05 returns 1 results
+2024-02-15 00:28:09,411 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:28:05 returns 1 results
+2024-02-15 00:29:50,670 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:29:48 returns 1 results
+2024-02-15 00:29:52,719 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:29:48 returns 1 results
+2024-02-15 00:29:55,651 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:29:53 returns 1 results
+2024-02-15 00:29:57,683 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:29:53 returns 1 results
+2024-02-15 00:30:00,627 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:29:58 returns 1 results
+2024-02-15 00:30:02,671 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:29:58 returns 1 results
+2024-02-15 00:30:21,404 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:30:19 returns 1 results
+2024-02-15 00:30:23,450 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:30:19 returns 1 results
+2024-02-15 00:30:26,384 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:30:24 returns 1 results
+2024-02-15 00:30:28,431 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:30:24 returns 1 results
+2024-02-15 00:30:31,404 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:30:29 returns 1 results
+2024-02-15 00:30:33,446 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:30:29 returns 1 results
+2024-02-15 00:30:54,344 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:30:52 returns 1 results
+2024-02-15 00:30:56,385 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:30:52 returns 1 results
+2024-02-15 00:30:59,345 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:30:57 returns 1 results
+2024-02-15 00:31:01,379 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:30:57 returns 1 results
+2024-02-15 00:33:19,541 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:33:17 returns 1 results
+2024-02-15 00:33:21,581 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:33:17 returns 1 results
+2024-02-15 00:33:24,524 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:33:22 returns 1 results
+2024-02-15 00:33:26,545 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:33:22 returns 1 results
+2024-02-15 00:45:18,830 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:45:16 returns 1 results
+2024-02-15 00:45:20,866 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:45:16 returns 1 results
+2024-02-15 00:45:23,819 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:45:16' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:45:28,810 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:45:16' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:56:18,106 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:56:16 returns 1 results
+2024-02-15 00:56:20,149 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:56:16 returns 1 results
+2024-02-15 00:56:23,119 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:56:16' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:56:28,102 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:56:16' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:57:26,597 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:57:24 returns 1 results
+2024-02-15 00:57:28,643 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:57:24 returns 1 results
+2024-02-15 00:57:31,618 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:57:24' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:57:36,612 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:57:24' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:57:41,602 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:57:24' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:58:46,110 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:58:44 returns 1 results
+2024-02-15 00:58:48,155 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:58:44 returns 1 results
+2024-02-15 00:58:51,113 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:58:44' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:58:56,116 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:58:44' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:59:32,485 - basicLogger - INFO - Query for Movie Items after 2024-02-14T00:59:30 returns 1 results
+2024-02-15 00:59:34,523 - basicLogger - INFO - Query for Reviews after 2024-02-14T00:59:30 returns 1 results
+2024-02-15 00:59:37,493 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:59:30' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 00:59:42,477 - basicLogger - ERROR - Error in get movies: time data '2024-02-15 00:59:30' does not match format '%Y-%m-%dT%H:%M:%S'
+2024-02-15 01:01:54,146 - basicLogger - INFO - Query for Movie Items after 2024-02-15T00:59:30 returns 0 results
+2024-02-15 01:01:56,180 - basicLogger - INFO - Query for Reviews after 2024-02-15T00:59:30 returns 0 results
+2024-02-15 01:01:59,126 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:01:52 returns 0 results
+2024-02-15 01:02:01,171 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:01:52 returns 0 results
+2024-02-15 01:02:04,107 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:01:57 returns 0 results
+2024-02-15 01:02:06,144 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:01:57 returns 0 results
+2024-02-15 01:03:54,948 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:03:56,993 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:03:59,946 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:04:01,983 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:04:04,943 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:04:06,984 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:04:09,256 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of a0888c50-b01c-47b5-8709-3bcb78d176b9
+2024-02-15 01:04:09,931 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:04:11,973 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:04:14,938 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:02:02 returns 1 results
+2024-02-15 01:04:16,973 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:02:02 returns 0 results
+2024-02-15 01:04:19,931 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:21,969 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:24,952 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:26,989 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:29,941 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:31,982 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:34,951 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:36,997 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:39,935 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:41,984 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:44,951 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:46,980 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:49,954 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:51,994 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:54,956 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:56,998 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:04:59,941 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:05:01,978 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:04:12 returns 0 results
+2024-02-15 01:06:19,925 - basicLogger - INFO - Query for Movie Items after 2024-02-14T01:06:17 returns 2 results
+2024-02-15 01:06:21,974 - basicLogger - INFO - Query for Reviews after 2024-02-14T01:06:17 returns 1 results
+2024-02-15 01:06:24,891 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:26,927 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:29,920 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:31,968 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:34,920 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:36,952 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:39,921 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:41,972 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:44,901 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:46,945 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:48,690 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 1cca898b-d5fd-481d-80cd-6f586e96e7d1
+2024-02-15 01:06:49,907 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:51,929 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:54,919 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:17 returns 0 results
+2024-02-15 01:06:56,970 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:17 returns 1 results
+2024-02-15 01:06:59,906 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:01,938 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:04,902 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:06,939 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:09,915 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:11,961 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:14,918 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:16,954 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:19,893 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:21,940 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:24,901 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:26,938 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:29,913 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 01:07:31,950 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:41:53,484 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:41:55,542 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:41:58,440 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:00,481 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:03,442 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:05,490 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:08,438 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:10,482 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:13,438 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:15,486 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:24,701 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:26,753 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:29,683 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:31,733 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:34,708 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:36,756 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:39,703 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:41,748 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:44,698 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:46,740 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:49,702 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:51,744 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:54,702 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:56,749 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:42:59,712 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 09:43:01,765 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:03,103 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:05,151 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:08,076 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:10,118 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:13,077 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:15,121 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:18,096 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:20,144 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:23,085 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:25,120 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:28,072 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:30,119 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:33,080 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:35,130 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:38,074 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:40,124 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:43,082 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:45,125 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:48,073 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:50,121 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:53,090 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:55,143 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:02:58,077 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:00,123 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:03,086 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:05,130 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:08,073 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:10,131 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:13,075 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:15,116 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:18,086 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:20,124 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:23,065 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:25,110 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:28,068 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:30,115 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:33,101 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:35,134 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:38,075 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:40,129 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:43,067 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:45,112 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:48,076 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:50,129 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:53,100 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:55,137 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:03:58,080 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:00,126 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:03,064 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:05,110 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:08,071 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:10,120 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:13,080 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:15,103 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:18,087 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:20,130 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:23,062 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:25,107 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:28,079 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:30,128 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:33,071 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:35,112 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:38,100 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:40,127 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:43,081 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:45,122 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:48,088 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:50,126 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:53,074 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:55,114 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:04:58,088 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:00,127 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:03,106 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:05,153 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:08,071 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:10,124 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:13,065 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:15,114 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:18,081 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:20,120 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:23,097 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:25,139 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:28,077 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:30,116 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:33,078 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:35,127 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:38,083 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:40,129 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:43,070 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:45,111 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:48,075 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:50,123 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:53,073 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:55,116 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:05:58,073 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:00,126 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:03,069 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:05,115 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:08,081 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:10,128 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:13,058 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:15,092 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:18,076 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:20,109 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:23,066 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:25,108 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:28,068 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:30,111 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:33,073 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:35,117 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:38,098 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:40,141 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:43,080 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:45,118 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:48,087 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:50,137 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:53,076 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:55,116 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:06:58,091 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:00,133 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:03,082 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:05,128 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:08,077 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:10,113 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:13,093 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:15,127 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:18,069 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:20,103 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:23,076 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:25,122 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:28,080 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:30,114 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:33,073 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:35,116 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:38,074 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:40,113 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:43,088 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:45,132 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:48,088 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:50,131 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:53,077 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:07:55,122 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:42,766 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:44,809 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:47,735 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:49,773 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:52,752 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:54,788 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:57,764 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:10:59,810 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:02,740 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:04,782 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:07,746 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:09,789 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:12,756 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:14,807 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:17,761 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:19,807 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:22,765 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:24,814 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:27,759 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:29,807 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:32,775 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:34,816 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:37,755 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:39,793 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:42,745 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:44,786 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:47,749 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:49,799 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:52,725 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:54,770 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:57,757 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:11:59,801 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:02,751 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:04,798 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:07,756 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:09,803 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:12,759 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:14,802 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:17,766 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:19,818 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:22,758 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:24,790 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:27,778 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:29,826 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:32,743 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:34,789 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:37,736 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:39,782 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:42,733 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:44,778 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:47,766 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:49,805 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:52,748 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:54,794 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:57,751 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:12:59,802 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:02,753 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:04,799 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:07,736 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:09,779 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:12,746 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:14,789 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:17,748 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:19,789 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:22,755 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:24,805 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:27,762 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:29,814 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:32,733 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:34,777 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:37,758 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:39,810 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:42,750 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:44,795 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:47,754 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:49,796 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:52,755 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:54,797 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:57,753 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:13:59,803 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:02,743 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:04,783 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:07,757 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:09,812 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:12,751 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:14,802 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:17,767 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:19,805 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:22,761 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:24,806 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:27,759 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:29,805 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:32,754 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:34,806 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:37,762 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:39,805 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:42,759 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:44,809 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:47,752 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:49,786 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:52,790 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:54,831 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:57,747 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:14:59,794 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:02,751 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:04,793 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:07,760 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:09,806 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:12,764 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:14,807 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:17,760 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:19,807 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:22,770 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:24,814 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:27,752 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:29,795 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:32,735 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:34,777 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:37,754 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:39,802 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:42,749 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:44,792 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:47,755 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:49,809 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:52,766 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:54,816 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:57,749 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:15:59,797 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:02,763 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:04,808 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:07,758 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:09,807 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:12,742 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:14,794 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:17,764 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:19,811 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:20,584 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of c3ed6a96-00e6-44b0-9241-dc833e4a2396
+2024-02-15 10:16:20,773 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of ec1a3746-6ae0-4979-8386-32ac08b0a7aa
+2024-02-15 10:16:20,973 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of e19f2c64-814c-43f0-b748-7aa7e9da0568
+2024-02-15 10:16:21,172 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 7f423f41-0549-41a3-a19e-cb8c13b27561
+2024-02-15 10:16:21,372 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 2ece315b-07d7-4a8a-a070-3089b6ca0d98
+2024-02-15 10:16:22,628 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 17a20ca2-c0ee-4259-8311-72190a1de50b
+2024-02-15 10:16:22,736 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:22,813 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 3644bb80-d811-49f2-a6c8-018acc7d4580
+2024-02-15 10:16:23,012 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 07ec1efa-0515-4497-8db9-31d1c5d62c28
+2024-02-15 10:16:23,213 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 23619d36-78b0-4201-9868-80b35dbe4883
+2024-02-15 10:16:23,414 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 7af25409-3f01-439f-a1e7-e2de54cf759f
+2024-02-15 10:16:24,674 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of bdfe5bad-88ec-4f8d-b2e1-8be2ca5ba83f
+2024-02-15 10:16:24,763 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 0 results
+2024-02-15 10:16:24,859 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 03e20058-d037-4b04-a767-da65ca82f868
+2024-02-15 10:16:25,058 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 43ce8d2f-d3ea-4ad1-935b-b5682ba4b7f2
+2024-02-15 10:16:25,257 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 34f6d6d2-1261-455e-9230-d8c6095522d5
+2024-02-15 10:16:25,459 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 2f293957-0de0-41e3-b384-8ae9250736aa
+2024-02-15 10:16:26,729 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 361528ca-62df-484f-a6cb-de345ffd38e1
+2024-02-15 10:16:26,912 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 250d4665-beee-4f2a-a896-c7b9627bc219
+2024-02-15 10:16:27,098 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 8ccd6cfd-36a9-4512-89d8-962a82fcb278
+2024-02-15 10:16:27,315 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 3b347695-fc20-4015-8077-eee12796b4fc
+2024-02-15 10:16:27,500 - basicLogger - DEBUG - Stored event <Review> request with a trace id of a3b485cd-7ce7-467c-bcbb-6cac92e77f93
+2024-02-15 10:16:27,759 - basicLogger - INFO - Query for Movie Items after 2024-02-15T01:06:52 returns 7 results
+2024-02-15 10:16:28,784 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 2d2a9728-b391-4329-8323-ba86eaf380a3
+2024-02-15 10:16:28,969 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of a3019306-b658-44e5-9b7d-bd4076d267a2
+2024-02-15 10:16:29,154 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 1801ceb5-2356-4d38-9fc1-b50f5a28ab41
+2024-02-15 10:16:29,370 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 81fe359e-2182-415f-a28b-04c009eab29e
+2024-02-15 10:16:29,553 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 4ca14fc8-0b06-488d-a01a-c2b854aaec59
+2024-02-15 10:16:29,801 - basicLogger - INFO - Query for Reviews after 2024-02-15T01:06:52 returns 5 results
+2024-02-15 10:16:30,822 - basicLogger - DEBUG - Stored event <Review> request with a trace id of fac4dae6-0ace-4c6d-b103-271d0406b94d
+2024-02-15 10:16:31,022 - basicLogger - DEBUG - Stored event <Review> request with a trace id of d5df040d-8952-49bb-bd4b-7be4659ec486
+2024-02-15 10:16:31,193 - basicLogger - DEBUG - Stored event <Review> request with a trace id of e605b0f6-5130-49ba-a5a5-5d2de3d19b84
+2024-02-15 10:16:31,426 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 4e824727-2793-4173-9c2c-bfbba2678621
+2024-02-15 10:16:31,596 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 93e4e981-977d-4444-91f5-fbac1447f63b
+2024-02-15 10:16:32,737 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:25 returns 8 results
+2024-02-15 10:16:32,877 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 5cf29f80-9adf-490b-a988-bd101fd54ce1
+2024-02-15 10:16:33,080 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of a95f333f-392e-4934-9d6a-7a8a5717ad1c
+2024-02-15 10:16:33,244 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of e3a6b253-07b9-4aa2-aa28-5b1d7c7132d7
+2024-02-15 10:16:33,477 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 477cdd81-085f-413c-9bcc-2cd19d65b09f
+2024-02-15 10:16:33,646 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 196eff34-79f1-49ba-8b6c-402d0db97042
+2024-02-15 10:16:34,787 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:25 returns 5 results
+2024-02-15 10:16:34,924 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 4bec166e-6a77-48fa-8d3d-7862a654ce02
+2024-02-15 10:16:35,125 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 5400e27c-e663-43f4-b2e3-f710867bb3b4
+2024-02-15 10:16:35,287 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 2fd82fcd-c5da-402b-82c5-c4c6708d1aa7
+2024-02-15 10:16:35,521 - basicLogger - DEBUG - Stored event <Review> request with a trace id of a5f44d08-888b-46ee-808e-7fe8832a2378
+2024-02-15 10:16:35,689 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 0fd0260a-8649-44e1-a4e5-fd80846e96df
+2024-02-15 10:16:36,963 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of a4783f82-2d83-494b-ada7-f867c32da876
+2024-02-15 10:16:37,166 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 7d10b359-7a4d-4f45-8982-650649f159b3
+2024-02-15 10:16:37,337 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of 45746cb9-2592-47d1-9484-f601c61df7ce
+2024-02-15 10:16:37,570 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of d5ed4c86-a917-4fab-b85f-9e631354ac37
+2024-02-15 10:16:37,741 - basicLogger - DEBUG - Stored event <MovieItem> request with a trace id of b8660a8d-6add-4c40-b5ec-5dc53739354a
+2024-02-15 10:16:37,756 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:30 returns 5 results
+2024-02-15 10:16:39,010 - basicLogger - DEBUG - Stored event <Review> request with a trace id of d5e1726a-d0d7-4e1b-ba16-b7eafd618f2c
+2024-02-15 10:16:39,212 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 4731de4f-cf55-43f9-a627-95050e00ac0f
+2024-02-15 10:16:39,382 - basicLogger - DEBUG - Stored event <Review> request with a trace id of c30f33c5-2360-45fb-a198-915c78a68418
+2024-02-15 10:16:39,615 - basicLogger - DEBUG - Stored event <Review> request with a trace id of d47cc5dc-52e3-43e6-8e1b-e6081ca2faf5
+2024-02-15 10:16:39,785 - basicLogger - DEBUG - Stored event <Review> request with a trace id of 1cc4769f-c351-40ad-acda-b765076dc585
+2024-02-15 10:16:39,804 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:30 returns 6 results
+2024-02-15 10:16:42,763 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:35 returns 5 results
+2024-02-15 10:16:44,805 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:35 returns 9 results
+2024-02-15 10:16:47,747 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:16:49,790 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:16:52,743 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:16:54,788 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:16:57,762 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:16:59,802 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:02,756 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:04,796 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:07,753 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:09,796 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:12,756 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:14,800 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:17,773 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:19,826 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:22,766 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:24,816 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:27,748 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:29,795 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:32,748 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:34,800 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:37,750 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:39,800 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:42,767 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:44,813 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:47,730 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:49,778 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:52,775 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:17:54,813 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:16:40 returns 0 results
+2024-02-15 10:24:18,835 - basicLogger - INFO - Query for Movie Items after 2024-02-14T10:24:16 returns 27 results
+2024-02-15 10:24:20,899 - basicLogger - INFO - Query for Reviews after 2024-02-14T10:24:16 returns 27 results
+2024-02-15 10:24:23,849 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:25,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:28,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:30,892 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:33,818 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:35,854 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:38,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:40,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:43,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:45,887 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:48,821 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:50,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:53,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:55,891 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:24:58,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:00,877 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:03,830 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:05,862 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:08,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:10,888 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:13,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:15,873 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:18,821 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:20,857 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:23,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:25,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:28,834 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:30,871 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:33,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:35,882 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:38,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:40,870 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:43,818 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:45,859 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:48,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:50,863 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:53,818 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:55,869 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:25:58,834 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:00,853 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:03,852 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:05,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:08,854 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:10,893 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:13,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:15,882 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:18,834 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:20,868 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:23,827 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:25,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:28,813 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:30,857 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:33,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:35,885 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:38,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:40,867 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:43,835 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:45,858 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:48,830 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:50,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:53,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:55,888 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:26:58,821 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:00,869 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:03,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:05,870 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:08,857 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:10,900 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:13,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:15,853 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:18,834 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:20,874 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:23,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:25,877 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:28,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:30,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:33,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:35,886 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:38,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:40,887 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:43,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:45,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:48,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:50,869 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:53,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:55,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:27:58,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:00,895 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:03,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:05,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:08,818 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:10,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:13,850 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:15,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:18,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:20,888 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:23,847 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:25,885 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:28,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:30,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:33,842 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:35,885 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:38,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:40,868 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:43,842 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:45,894 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:48,851 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:50,904 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:53,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:55,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:28:58,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:00,886 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:03,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:05,879 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:08,843 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:10,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:13,853 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:15,902 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:18,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:20,868 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:23,835 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:25,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:28,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:30,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:33,852 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:35,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:38,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:40,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:43,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:45,882 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:48,818 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:50,869 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:53,829 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:55,872 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:29:58,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:00,854 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:03,825 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:05,856 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:08,825 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:10,869 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:13,820 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:15,864 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:18,820 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:20,863 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:23,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:25,868 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:28,835 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:30,872 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:33,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:35,874 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:38,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:40,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:43,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:45,872 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:48,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:50,877 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:53,847 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:55,895 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:30:58,847 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:00,887 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:03,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:05,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:08,829 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:10,870 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:13,834 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:15,879 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:18,810 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:20,846 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:23,848 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:25,886 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:28,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:30,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:33,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:35,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:38,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:40,873 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:43,827 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:45,861 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:48,812 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:50,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:53,817 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:55,847 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:31:58,844 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:00,879 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:03,850 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:05,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:08,848 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:10,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:13,843 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:15,885 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:18,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:20,894 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:23,844 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:25,894 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:28,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:30,896 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:33,846 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:35,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:38,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:40,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:43,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:45,863 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:48,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:50,879 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:53,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:55,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:32:58,847 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:00,885 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:03,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:05,887 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:08,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:10,858 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:13,815 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:15,864 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:18,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:20,877 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:23,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:25,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:28,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:30,871 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:33,847 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:35,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:38,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:40,881 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:43,830 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:45,874 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:48,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:50,877 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:53,823 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:55,849 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:33:58,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:00,870 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:03,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:05,893 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:08,848 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:10,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:13,829 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:15,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:18,827 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:20,876 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:23,821 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:25,861 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:28,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:30,859 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:33,830 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:35,864 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:38,830 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:40,867 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:43,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:45,882 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:48,853 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:50,896 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:53,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:55,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:34:58,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:00,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:03,834 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:05,881 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:08,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:10,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:13,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:15,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:18,847 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:20,895 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:23,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:25,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:28,850 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:30,895 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:33,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:35,891 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:38,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:40,870 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:43,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:45,872 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:48,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:50,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:53,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:55,861 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:35:58,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:00,849 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:03,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:05,860 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:08,825 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:10,857 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:13,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:15,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:18,847 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:20,887 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:23,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:25,894 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:28,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:30,873 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:33,835 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:35,867 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:38,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:40,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:43,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:45,882 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:48,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:50,876 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:53,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:55,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:36:58,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:00,895 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:03,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:05,881 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:08,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:10,885 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:13,838 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:15,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:18,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:20,881 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:23,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:25,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:28,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:30,851 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:33,858 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:35,901 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:38,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:40,897 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:43,849 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:45,886 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:48,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:50,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:53,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:55,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:37:58,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:00,857 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:03,835 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:05,876 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:08,825 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:10,859 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:13,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:15,859 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:18,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:20,861 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:23,829 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:25,857 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:28,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:30,877 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:33,844 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:35,878 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:38,849 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:40,882 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:43,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:45,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:48,846 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:50,898 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:53,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:55,873 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:38:58,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:00,891 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:03,829 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:05,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:08,852 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:10,893 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:13,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:15,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:18,814 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:20,849 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:23,843 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:25,876 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:28,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:30,851 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:33,805 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:35,840 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:38,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:40,858 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:43,819 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:45,851 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:48,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:50,863 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:53,827 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:55,864 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:39:58,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:00,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:03,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:05,874 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:08,835 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:10,872 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:13,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:15,858 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:18,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:20,845 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:23,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:25,851 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:28,843 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:30,882 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:33,810 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:35,847 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:38,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:40,879 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:43,837 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:45,873 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:48,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:50,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:53,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:55,869 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:40:58,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:00,863 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:03,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:05,875 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:08,851 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:10,889 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:13,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:15,897 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:18,824 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:20,862 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:23,833 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:25,879 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:28,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:30,868 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:33,841 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:35,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:38,820 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:40,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:43,848 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:45,880 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:48,839 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:50,885 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:53,845 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:55,888 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:41:58,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:00,879 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:03,822 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:05,852 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:08,854 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:10,893 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:13,853 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:15,890 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:18,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:20,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:23,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:25,881 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:28,823 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:30,845 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:33,840 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:35,877 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:38,827 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:40,861 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:43,821 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:45,858 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:48,832 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:50,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:53,828 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:55,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:42:58,831 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:00,867 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:03,836 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:05,883 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:08,855 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:10,884 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:13,843 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:15,893 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:18,816 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:20,851 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:23,835 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:25,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:28,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:30,866 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:33,827 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:35,865 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:38,851 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:40,898 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:43,825 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:45,873 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:48,815 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:50,851 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:53,817 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:55,859 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:43:58,843 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:00,888 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:03,826 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:05,860 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:08,834 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:10,864 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:19,953 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:21,991 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:24,941 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:26,975 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:29,961 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:32,000 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:34,936 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:44:36,970 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:48:43,554 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:48:45,592 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:48:48,529 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:48:50,563 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:48:53,556 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:48:55,610 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:48:58,530 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:00,578 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:03,534 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:05,572 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:08,557 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:10,603 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:13,552 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:15,588 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:18,551 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:20,595 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:23,541 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:25,589 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:28,542 - basicLogger - INFO - Query for Movie Items after 2024-02-15T10:24:16 returns 0 results
+2024-02-15 10:49:30,594 - basicLogger - INFO - Query for Reviews after 2024-02-15T10:24:16 returns 0 results

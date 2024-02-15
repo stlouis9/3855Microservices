@@ -1,0 +1,110 @@
+2024-02-08 15:25:45,394 - basicLogger - INFO - Received event <MovieItem> request with a trace id of bc0313dd-b381-432f-a6a0-446c178f99be
+2024-02-08 15:25:47,460 - basicLogger - INFO - Returned event <MovieItem> response (Id: bc0313dd-b381-432f-a6a0-446c178f99be) with status 201
+2024-02-14 22:24:14,882 - basicLogger - INFO - Received event <MovieItem> request with a trace id of e818a1ba-18c0-48b4-926c-168b9b6aadaa
+2024-02-14 22:24:17,148 - basicLogger - INFO - Returned event <MovieItem> response (Id: e818a1ba-18c0-48b4-926c-168b9b6aadaa) with status 201
+2024-02-15 00:16:36,878 - basicLogger - INFO - Received event <Review> request with a trace id of c21913b1-898b-49d1-a127-98a764ae720d
+2024-02-15 00:16:38,955 - basicLogger - INFO - Returned event <Review> response (Id: c21913b1-898b-49d1-a127-98a764ae720d) with status 201
+2024-02-15 01:04:07,194 - basicLogger - INFO - Received event <MovieItem> request with a trace id of a0888c50-b01c-47b5-8709-3bcb78d176b9
+2024-02-15 01:04:09,259 - basicLogger - INFO - Returned event <MovieItem> response (Id: a0888c50-b01c-47b5-8709-3bcb78d176b9) with status 201
+2024-02-15 01:06:46,640 - basicLogger - INFO - Received event <Review> request with a trace id of 1cca898b-d5fd-481d-80cd-6f586e96e7d1
+2024-02-15 01:06:48,691 - basicLogger - INFO - Returned event <Review> response (Id: 1cca898b-d5fd-481d-80cd-6f586e96e7d1) with status 201
+2024-02-15 10:16:18,525 - basicLogger - INFO - Received event <MovieItem> request with a trace id of c3ed6a96-00e6-44b0-9241-dc833e4a2396
+2024-02-15 10:16:18,725 - basicLogger - INFO - Received event <MovieItem> request with a trace id of ec1a3746-6ae0-4979-8386-32ac08b0a7aa
+2024-02-15 10:16:18,926 - basicLogger - INFO - Received event <MovieItem> request with a trace id of e19f2c64-814c-43f0-b748-7aa7e9da0568
+2024-02-15 10:16:19,128 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 7f423f41-0549-41a3-a19e-cb8c13b27561
+2024-02-15 10:16:19,330 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 2ece315b-07d7-4a8a-a070-3089b6ca0d98
+2024-02-15 10:16:20,586 - basicLogger - INFO - Returned event <MovieItem> response (Id: c3ed6a96-00e6-44b0-9241-dc833e4a2396) with status 201
+2024-02-15 10:16:20,600 - basicLogger - INFO - Received event <Review> request with a trace id of 17a20ca2-c0ee-4259-8311-72190a1de50b
+2024-02-15 10:16:20,774 - basicLogger - INFO - Returned event <MovieItem> response (Id: ec1a3746-6ae0-4979-8386-32ac08b0a7aa) with status 201
+2024-02-15 10:16:20,777 - basicLogger - INFO - Received event <Review> request with a trace id of 3644bb80-d811-49f2-a6c8-018acc7d4580
+2024-02-15 10:16:20,975 - basicLogger - INFO - Returned event <MovieItem> response (Id: e19f2c64-814c-43f0-b748-7aa7e9da0568) with status 201
+2024-02-15 10:16:20,979 - basicLogger - INFO - Received event <Review> request with a trace id of 07ec1efa-0515-4497-8db9-31d1c5d62c28
+2024-02-15 10:16:21,173 - basicLogger - INFO - Returned event <MovieItem> response (Id: 7f423f41-0549-41a3-a19e-cb8c13b27561) with status 201
+2024-02-15 10:16:21,176 - basicLogger - INFO - Received event <Review> request with a trace id of 23619d36-78b0-4201-9868-80b35dbe4883
+2024-02-15 10:16:21,373 - basicLogger - INFO - Returned event <MovieItem> response (Id: 2ece315b-07d7-4a8a-a070-3089b6ca0d98) with status 201
+2024-02-15 10:16:21,377 - basicLogger - INFO - Received event <Review> request with a trace id of 7af25409-3f01-439f-a1e7-e2de54cf759f
+2024-02-15 10:16:22,630 - basicLogger - INFO - Returned event <Review> response (Id: 17a20ca2-c0ee-4259-8311-72190a1de50b) with status 201
+2024-02-15 10:16:22,634 - basicLogger - INFO - Received event <MovieItem> request with a trace id of bdfe5bad-88ec-4f8d-b2e1-8be2ca5ba83f
+2024-02-15 10:16:22,814 - basicLogger - INFO - Returned event <Review> response (Id: 3644bb80-d811-49f2-a6c8-018acc7d4580) with status 201
+2024-02-15 10:16:22,817 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 03e20058-d037-4b04-a767-da65ca82f868
+2024-02-15 10:16:23,014 - basicLogger - INFO - Returned event <Review> response (Id: 07ec1efa-0515-4497-8db9-31d1c5d62c28) with status 201
+2024-02-15 10:16:23,017 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 43ce8d2f-d3ea-4ad1-935b-b5682ba4b7f2
+2024-02-15 10:16:23,214 - basicLogger - INFO - Returned event <Review> response (Id: 23619d36-78b0-4201-9868-80b35dbe4883) with status 201
+2024-02-15 10:16:23,218 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 34f6d6d2-1261-455e-9230-d8c6095522d5
+2024-02-15 10:16:23,415 - basicLogger - INFO - Returned event <Review> response (Id: 7af25409-3f01-439f-a1e7-e2de54cf759f) with status 201
+2024-02-15 10:16:23,419 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 2f293957-0de0-41e3-b384-8ae9250736aa
+2024-02-15 10:16:24,675 - basicLogger - INFO - Returned event <MovieItem> response (Id: bdfe5bad-88ec-4f8d-b2e1-8be2ca5ba83f) with status 201
+2024-02-15 10:16:24,679 - basicLogger - INFO - Received event <Review> request with a trace id of 361528ca-62df-484f-a6cb-de345ffd38e1
+2024-02-15 10:16:24,861 - basicLogger - INFO - Returned event <MovieItem> response (Id: 03e20058-d037-4b04-a767-da65ca82f868) with status 201
+2024-02-15 10:16:24,863 - basicLogger - INFO - Received event <Review> request with a trace id of 250d4665-beee-4f2a-a896-c7b9627bc219
+2024-02-15 10:16:25,060 - basicLogger - INFO - Returned event <MovieItem> response (Id: 43ce8d2f-d3ea-4ad1-935b-b5682ba4b7f2) with status 201
+2024-02-15 10:16:25,063 - basicLogger - INFO - Received event <Review> request with a trace id of 8ccd6cfd-36a9-4512-89d8-962a82fcb278
+2024-02-15 10:16:25,258 - basicLogger - INFO - Returned event <MovieItem> response (Id: 34f6d6d2-1261-455e-9230-d8c6095522d5) with status 201
+2024-02-15 10:16:25,261 - basicLogger - INFO - Received event <Review> request with a trace id of 3b347695-fc20-4015-8077-eee12796b4fc
+2024-02-15 10:16:25,460 - basicLogger - INFO - Returned event <MovieItem> response (Id: 2f293957-0de0-41e3-b384-8ae9250736aa) with status 201
+2024-02-15 10:16:25,463 - basicLogger - INFO - Received event <Review> request with a trace id of a3b485cd-7ce7-467c-bcbb-6cac92e77f93
+2024-02-15 10:16:26,731 - basicLogger - INFO - Returned event <Review> response (Id: 361528ca-62df-484f-a6cb-de345ffd38e1) with status 201
+2024-02-15 10:16:26,735 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 2d2a9728-b391-4329-8323-ba86eaf380a3
+2024-02-15 10:16:26,913 - basicLogger - INFO - Returned event <Review> response (Id: 250d4665-beee-4f2a-a896-c7b9627bc219) with status 201
+2024-02-15 10:16:26,919 - basicLogger - INFO - Received event <MovieItem> request with a trace id of a3019306-b658-44e5-9b7d-bd4076d267a2
+2024-02-15 10:16:27,099 - basicLogger - INFO - Returned event <Review> response (Id: 8ccd6cfd-36a9-4512-89d8-962a82fcb278) with status 201
+2024-02-15 10:16:27,102 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 1801ceb5-2356-4d38-9fc1-b50f5a28ab41
+2024-02-15 10:16:27,316 - basicLogger - INFO - Returned event <Review> response (Id: 3b347695-fc20-4015-8077-eee12796b4fc) with status 201
+2024-02-15 10:16:27,319 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 81fe359e-2182-415f-a28b-04c009eab29e
+2024-02-15 10:16:27,501 - basicLogger - INFO - Returned event <Review> response (Id: a3b485cd-7ce7-467c-bcbb-6cac92e77f93) with status 201
+2024-02-15 10:16:27,504 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 4ca14fc8-0b06-488d-a01a-c2b854aaec59
+2024-02-15 10:16:28,786 - basicLogger - INFO - Returned event <MovieItem> response (Id: 2d2a9728-b391-4329-8323-ba86eaf380a3) with status 201
+2024-02-15 10:16:28,790 - basicLogger - INFO - Received event <Review> request with a trace id of fac4dae6-0ace-4c6d-b103-271d0406b94d
+2024-02-15 10:16:28,972 - basicLogger - INFO - Returned event <MovieItem> response (Id: a3019306-b658-44e5-9b7d-bd4076d267a2) with status 201
+2024-02-15 10:16:28,976 - basicLogger - INFO - Received event <Review> request with a trace id of d5df040d-8952-49bb-bd4b-7be4659ec486
+2024-02-15 10:16:29,155 - basicLogger - INFO - Returned event <MovieItem> response (Id: 1801ceb5-2356-4d38-9fc1-b50f5a28ab41) with status 201
+2024-02-15 10:16:29,160 - basicLogger - INFO - Received event <Review> request with a trace id of e605b0f6-5130-49ba-a5a5-5d2de3d19b84
+2024-02-15 10:16:29,372 - basicLogger - INFO - Returned event <MovieItem> response (Id: 81fe359e-2182-415f-a28b-04c009eab29e) with status 201
+2024-02-15 10:16:29,376 - basicLogger - INFO - Received event <Review> request with a trace id of 4e824727-2793-4173-9c2c-bfbba2678621
+2024-02-15 10:16:29,555 - basicLogger - INFO - Returned event <MovieItem> response (Id: 4ca14fc8-0b06-488d-a01a-c2b854aaec59) with status 201
+2024-02-15 10:16:29,558 - basicLogger - INFO - Received event <Review> request with a trace id of 93e4e981-977d-4444-91f5-fbac1447f63b
+2024-02-15 10:16:30,824 - basicLogger - INFO - Returned event <Review> response (Id: fac4dae6-0ace-4c6d-b103-271d0406b94d) with status 201
+2024-02-15 10:16:30,827 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 5cf29f80-9adf-490b-a988-bd101fd54ce1
+2024-02-15 10:16:31,023 - basicLogger - INFO - Returned event <Review> response (Id: d5df040d-8952-49bb-bd4b-7be4659ec486) with status 201
+2024-02-15 10:16:31,027 - basicLogger - INFO - Received event <MovieItem> request with a trace id of a95f333f-392e-4934-9d6a-7a8a5717ad1c
+2024-02-15 10:16:31,194 - basicLogger - INFO - Returned event <Review> response (Id: e605b0f6-5130-49ba-a5a5-5d2de3d19b84) with status 201
+2024-02-15 10:16:31,198 - basicLogger - INFO - Received event <MovieItem> request with a trace id of e3a6b253-07b9-4aa2-aa28-5b1d7c7132d7
+2024-02-15 10:16:31,428 - basicLogger - INFO - Returned event <Review> response (Id: 4e824727-2793-4173-9c2c-bfbba2678621) with status 201
+2024-02-15 10:16:31,431 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 477cdd81-085f-413c-9bcc-2cd19d65b09f
+2024-02-15 10:16:31,597 - basicLogger - INFO - Returned event <Review> response (Id: 93e4e981-977d-4444-91f5-fbac1447f63b) with status 201
+2024-02-15 10:16:31,601 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 196eff34-79f1-49ba-8b6c-402d0db97042
+2024-02-15 10:16:32,878 - basicLogger - INFO - Returned event <MovieItem> response (Id: 5cf29f80-9adf-490b-a988-bd101fd54ce1) with status 201
+2024-02-15 10:16:32,881 - basicLogger - INFO - Received event <Review> request with a trace id of 4bec166e-6a77-48fa-8d3d-7862a654ce02
+2024-02-15 10:16:33,081 - basicLogger - INFO - Returned event <MovieItem> response (Id: a95f333f-392e-4934-9d6a-7a8a5717ad1c) with status 201
+2024-02-15 10:16:33,083 - basicLogger - INFO - Received event <Review> request with a trace id of 5400e27c-e663-43f4-b2e3-f710867bb3b4
+2024-02-15 10:16:33,245 - basicLogger - INFO - Returned event <MovieItem> response (Id: e3a6b253-07b9-4aa2-aa28-5b1d7c7132d7) with status 201
+2024-02-15 10:16:33,249 - basicLogger - INFO - Received event <Review> request with a trace id of 2fd82fcd-c5da-402b-82c5-c4c6708d1aa7
+2024-02-15 10:16:33,478 - basicLogger - INFO - Returned event <MovieItem> response (Id: 477cdd81-085f-413c-9bcc-2cd19d65b09f) with status 201
+2024-02-15 10:16:33,481 - basicLogger - INFO - Received event <Review> request with a trace id of a5f44d08-888b-46ee-808e-7fe8832a2378
+2024-02-15 10:16:33,647 - basicLogger - INFO - Returned event <MovieItem> response (Id: 196eff34-79f1-49ba-8b6c-402d0db97042) with status 201
+2024-02-15 10:16:33,652 - basicLogger - INFO - Received event <Review> request with a trace id of 0fd0260a-8649-44e1-a4e5-fd80846e96df
+2024-02-15 10:16:34,926 - basicLogger - INFO - Returned event <Review> response (Id: 4bec166e-6a77-48fa-8d3d-7862a654ce02) with status 201
+2024-02-15 10:16:34,929 - basicLogger - INFO - Received event <MovieItem> request with a trace id of a4783f82-2d83-494b-ada7-f867c32da876
+2024-02-15 10:16:35,126 - basicLogger - INFO - Returned event <Review> response (Id: 5400e27c-e663-43f4-b2e3-f710867bb3b4) with status 201
+2024-02-15 10:16:35,130 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 7d10b359-7a4d-4f45-8982-650649f159b3
+2024-02-15 10:16:35,288 - basicLogger - INFO - Returned event <Review> response (Id: 2fd82fcd-c5da-402b-82c5-c4c6708d1aa7) with status 201
+2024-02-15 10:16:35,292 - basicLogger - INFO - Received event <MovieItem> request with a trace id of 45746cb9-2592-47d1-9484-f601c61df7ce
+2024-02-15 10:16:35,522 - basicLogger - INFO - Returned event <Review> response (Id: a5f44d08-888b-46ee-808e-7fe8832a2378) with status 201
+2024-02-15 10:16:35,526 - basicLogger - INFO - Received event <MovieItem> request with a trace id of d5ed4c86-a917-4fab-b85f-9e631354ac37
+2024-02-15 10:16:35,691 - basicLogger - INFO - Returned event <Review> response (Id: 0fd0260a-8649-44e1-a4e5-fd80846e96df) with status 201
+2024-02-15 10:16:35,694 - basicLogger - INFO - Received event <MovieItem> request with a trace id of b8660a8d-6add-4c40-b5ec-5dc53739354a
+2024-02-15 10:16:36,965 - basicLogger - INFO - Returned event <MovieItem> response (Id: a4783f82-2d83-494b-ada7-f867c32da876) with status 201
+2024-02-15 10:16:36,968 - basicLogger - INFO - Received event <Review> request with a trace id of d5e1726a-d0d7-4e1b-ba16-b7eafd618f2c
+2024-02-15 10:16:37,167 - basicLogger - INFO - Returned event <MovieItem> response (Id: 7d10b359-7a4d-4f45-8982-650649f159b3) with status 201
+2024-02-15 10:16:37,171 - basicLogger - INFO - Received event <Review> request with a trace id of 4731de4f-cf55-43f9-a627-95050e00ac0f
+2024-02-15 10:16:37,338 - basicLogger - INFO - Returned event <MovieItem> response (Id: 45746cb9-2592-47d1-9484-f601c61df7ce) with status 201
+2024-02-15 10:16:37,341 - basicLogger - INFO - Received event <Review> request with a trace id of c30f33c5-2360-45fb-a198-915c78a68418
+2024-02-15 10:16:37,571 - basicLogger - INFO - Returned event <MovieItem> response (Id: d5ed4c86-a917-4fab-b85f-9e631354ac37) with status 201
+2024-02-15 10:16:37,575 - basicLogger - INFO - Received event <Review> request with a trace id of d47cc5dc-52e3-43e6-8e1b-e6081ca2faf5
+2024-02-15 10:16:37,741 - basicLogger - INFO - Returned event <MovieItem> response (Id: b8660a8d-6add-4c40-b5ec-5dc53739354a) with status 201
+2024-02-15 10:16:37,745 - basicLogger - INFO - Received event <Review> request with a trace id of 1cc4769f-c351-40ad-acda-b765076dc585
+2024-02-15 10:16:39,010 - basicLogger - INFO - Returned event <Review> response (Id: d5e1726a-d0d7-4e1b-ba16-b7eafd618f2c) with status 201
+2024-02-15 10:16:39,214 - basicLogger - INFO - Returned event <Review> response (Id: 4731de4f-cf55-43f9-a627-95050e00ac0f) with status 201
+2024-02-15 10:16:39,383 - basicLogger - INFO - Returned event <Review> response (Id: c30f33c5-2360-45fb-a198-915c78a68418) with status 201
+2024-02-15 10:16:39,616 - basicLogger - INFO - Returned event <Review> response (Id: d47cc5dc-52e3-43e6-8e1b-e6081ca2faf5) with status 201
+2024-02-15 10:16:39,786 - basicLogger - INFO - Returned event <Review> response (Id: 1cc4769f-c351-40ad-acda-b765076dc585) with status 201

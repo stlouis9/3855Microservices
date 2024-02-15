@@ -1,0 +1,57 @@
+openapi: 3.0.0
+info:
+  description: This API provides event stats
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: rstlouis2@my.bcit.ca
+
+paths:
+  /stats:
+    get:
+      summary: Gets all the event stats
+      operationId: app.get_stats
+      description: Gets movies and reviews processed statistics
+      responses:
+        '200':
+          description: Successfully returned a list of stats
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/MovieStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: 'Invalid request'
+components:
+  schemas:
+    MovieStats:
+      required:
+        - num_movies
+        - max_movie_runtime
+        - num_reviews
+        - avg_rating
+      properties:
+        num_movies:
+          type: integer
+          example: 10000
+        max_movie_runtime:
+          type: integer
+          example: 180
+        num_reviews:
+          type: integer
+          example: 10000
+        avg_rating:
+          type: number
+          format: float
+          example: 7.5
+
+      type: object
