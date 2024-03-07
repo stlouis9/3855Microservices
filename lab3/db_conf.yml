@@ -2,10 +2,10 @@ version: 1
 datastore:
   user: python
   password: python
-  hostname: localhost
+  hostname: kafka3855.westus3.cloudapp.azure.com
   port: 3306
   db: events
 events:
-  hostname: localhost
+  hostname: kafka3855.westus3.cloudapp.azure.com
   port: 9092
   topic: events
