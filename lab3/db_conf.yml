@@ -2,10 +2,10 @@ version: 1
 datastore:
   user: python
   password: python
-  hostname: http://localhost
+  hostname: localhost
   port: 3306
   db: events
 events:
-  hostname: http://localhost
+  hostname: localhost
   port: 9092
   topic: events
