@@ -1,0 +1,18 @@
+2024-02-22 15:14:13,623 - basicLogger - INFO - Retrieving movie at index 1
+2024-02-22 15:14:13,667 - basicLogger - INFO - Found BP at index 1
+2024-02-22 15:15:11,161 - basicLogger - INFO - Retrieving movie at index 1
+2024-02-22 15:15:12,214 - basicLogger - ERROR - Could not find BP at index 1
+2024-02-22 15:15:16,742 - basicLogger - INFO - Retrieving movie at index 0
+2024-02-22 15:15:16,785 - basicLogger - INFO - Found BP at index 0
+2024-02-22 15:35:25,314 - basicLogger - INFO - Retrieving movie at index 0
+2024-02-22 15:35:25,440 - basicLogger - INFO - Found BP at index 0
+2024-02-22 15:35:36,193 - basicLogger - INFO - Retrieving movie at index 100
+2024-02-22 15:35:37,325 - basicLogger - ERROR - Could not find movie at index 100
+2024-02-22 15:35:46,685 - basicLogger - INFO - Retrieving movie at index 50
+2024-02-22 15:35:46,815 - basicLogger - INFO - Found BP at index 50
+2024-02-22 15:35:55,316 - basicLogger - INFO - Retrieving review at index 0
+2024-02-22 15:35:55,444 - basicLogger - INFO - Found review at index 0
+2024-02-22 15:35:59,451 - basicLogger - INFO - Retrieving review at index 50
+2024-02-22 15:35:59,576 - basicLogger - INFO - Found review at index 50
+2024-02-22 15:36:03,255 - basicLogger - INFO - Retrieving review at index 55
+2024-02-22 15:36:04,387 - basicLogger - ERROR - Could not find review at index 55

@@ -1,45 +1,30 @@
 openapi: 3.0.0
 info:
-  description: This API receives data from movie reviewers
+  description: This API provides audit info
   version: "1.0.0"
-  title: Movie API
+  title: Audit API
   contact:
     email: rstlouis2@my.bcit.ca
-tags:
-  - name: moderator
-    description: Operations avaiable to moderators
-  - name: user
-    description: Operations available to regular users
 paths:
   /movies/movieItem:
     get:
-      tags:
-        - user
-      summary: gets all movies
-      operationId: app.get_movies
-      description: gets all movies after a timestamp
+      summary: gets a movie item from history
+      operationId: app.get_movie_item
+      description: Gets movie items from the event store
       parameters:
-        - name: start_timestamp
+        - name: index
           in: query
-          description: Limits the number of movies returned
+          description: Gets the movie item at the index in the event store
           schema:
-            type: string
-            format: date-time
-            example: '2016-08-29T09:12:33'
-        - name: end_timestamp
-          in: query
-          description: Limits the number of movies returned
-          schema:
-            type: string
-            format: date-time
-            example: '2016-08-29T09:12:33'
+            type: integer
+            example: 100
       responses:
         '200':
-          description: Successfully returned a list of movies
+          description: Successfully returned a movie item event
           content:
             application/json:
               schema:
-                type: array
+                type: object
                 items:
                   $ref: '#/components/schemas/MovieItem'
         '400':
@@ -51,36 +36,34 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'Invalid request'
-  /movies/review:
-    get:
-      tags:
-        - user
-      summary: gets all reviews
-      operationId: app.get_reviews
-      description: gets all reviews after a timestamp
-      parameters:
-        - name: start_timestamp
-          in: query
-          description: Limits the number of reviews returned
-          schema:
-            type: string
-            format: date-time
-            example: '2016-08-29T09:12:33.001Z'
-        - name: end_timestamp
-          in: query
-          description: Limits the number of reviews returned
-          schema:
-            type: string
-            format: date-time
-            example: '2016-08-29T09:12:33.001Z'
-      responses:
-        '200':
-          description: Successfully returned a list of reviews
+        '404':
+          description: Not Found
           content:
             application/json:
               schema:
-                type: array
+                type: object
+                properties:
+                  message:
+                    type: string
+  /movies/review:
+    get:
+      summary: gets a movie review from history
+      operationId: app.get_review
+      description: Gets movie review from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the review at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a movie review event
+          content:
+            application/json:
+              schema:
+                type: object
                 items:
                   $ref: '#/components/schemas/Review'
         '400':
@@ -92,13 +75,13 @@ paths:
                 properties:
                   message:
                     type: string
-                    example: 'Invalid request'
+        '404':
+          description: Not Found
 components:
   schemas:
     MovieItem:
       required:
         - movie_id
-        - trace_id
         - name
         - releaseDate
         - cast
@@ -134,15 +117,10 @@ components:
           type: string
           format: url
           example: 'https://image.tmdb.org/t/p/original/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg'
-        trace_id:
-          type: string
-          format: uuid
-          example: d290f1ee-6c54-4b01-90e6-d701748f0851
       type: object
     Review:
       required:
         - review_id
-        - trace_id
         - username
         - review_text
         - movie_id
@@ -173,8 +151,4 @@ components:
           type: string
           format: date-time
           example: '2016-08-29T09:12:33.001Z'
-        trace_id:
-          type: string
-          format: uuid
-          example: d290f1ee-6c54-4b01-90e6-d701748f0851
       type: object

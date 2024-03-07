@@ -3,6 +3,9 @@ import logging.config
 import requests
 import connexion
 from connexion import NoContent
+import datetime
+import json
+from pykafka import KafkaClient 
 import yaml
 import uuid
 
@@ -25,10 +28,21 @@ def add_movie(body):
 
     body["trace_id"] = trace_id
 
-    response = requests.post(app_config["eventstore1"]["url"], json=body, headers={"Content-Type": "application/json"})
+    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+    topic = client.topics[str.encode(app_config['events']['topic'])]
+    producer = topic.get_sync_producer()
+    msg = { "type": "movie",
+            "datetime" :
+                datetime.datetime.now().strftime(
+                    "%Y-%m-%dT%H:%M:%S"),
+            "payload": body }
+    msg_str = json.dumps(msg)
+    producer.produce(msg_str.encode('utf-8'))
+    
+    #response = requests.post(app_config["eventstore1"]["url"], json=body, headers={"Content-Type": "application/json"})
 
-    logger.info(f"Returned event <MovieItem> response (Id: {trace_id}) with status {response.status_code}")
-    return NoContent, response.status_code
+    logger.info(f"Returned event <MovieItem> response (Id: {trace_id}) with status 201")
+    return NoContent, 201
 
 def add_movie_review(body):
     trace_id = str(uuid.uuid4())
@@ -36,10 +50,21 @@ def add_movie_review(body):
 
     body["trace_id"] = trace_id
 
-    response = requests.post(app_config["eventstore2"]["url"], json=body, headers={"Content-Type": "application/json"})
+    #response = requests.post(app_config["eventstore2"]["url"], json=body, headers={"Content-Type": "application/json"})
 
-    logger.info(f"Returned event <Review> response (Id: {trace_id}) with status {response.status_code}")
-    return NoContent, response.status_code
+    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+    topic = client.topics[str.encode(app_config['events']['topic'])]
+    producer = topic.get_sync_producer()
+    msg = { "type": "review",
+            "datetime" :
+                datetime.datetime.now().strftime(
+                    "%Y-%m-%dT%H:%M:%S"),
+            "payload": body }
+    msg_str = json.dumps(msg)
+    producer.produce(msg_str.encode('utf-8'))
+
+    logger.info(f"Returned event <Review> response (Id: {trace_id}) with status 201")
+    return NoContent, 201
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')

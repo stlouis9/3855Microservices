@@ -3047,3 +3047,599 @@ Exiting...
 2024-02-15 10:49:26,500 - basicLogger - INFO - start periodic processing
 2024-02-15 10:49:30,595 - basicLogger - INFO - Received 0 movie item and 0 review events
 2024-02-15 10:49:30,595 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:14:45,343 - basicLogger - INFO - start periodic processing
+2024-02-15 14:14:50,333 - basicLogger - INFO - start periodic processing
+2024-02-15 14:14:54,436 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:14:54,436 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:14:55,338 - basicLogger - INFO - start periodic processing
+2024-02-15 14:14:59,436 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:14:59,436 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:15:00,343 - basicLogger - INFO - start periodic processing
+2024-02-15 14:15:04,441 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:15:04,441 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:15:05,336 - basicLogger - INFO - start periodic processing
+2024-02-15 14:15:09,410 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:15:09,411 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:15:10,333 - basicLogger - INFO - start periodic processing
+2024-02-15 14:15:14,400 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:15:14,400 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:22:35,736 - basicLogger - INFO - start periodic processing
+2024-02-15 14:22:38,970 - basicLogger - INFO - Retrieving stats...
+2024-02-15 14:22:38,973 - basicLogger - ERROR - Statistics do not exist
+2024-02-15 14:22:39,809 - basicLogger - INFO - Received 27 movie item and 27 review events
+2024-02-15 14:22:39,809 - basicLogger - DEBUG - Processing event with trace_id: e818a1ba-18c0-48b4-926c-168b9b6aadaa
+2024-02-15 14:22:39,810 - basicLogger - DEBUG - Processing event with trace_id: a0888c50-b01c-47b5-8709-3bcb78d176b9
+2024-02-15 14:22:39,810 - basicLogger - DEBUG - Processing event with trace_id: c3ed6a96-00e6-44b0-9241-dc833e4a2396
+2024-02-15 14:22:39,810 - basicLogger - DEBUG - Processing event with trace_id: ec1a3746-6ae0-4979-8386-32ac08b0a7aa
+2024-02-15 14:22:39,810 - basicLogger - DEBUG - Processing event with trace_id: e19f2c64-814c-43f0-b748-7aa7e9da0568
+2024-02-15 14:22:39,810 - basicLogger - DEBUG - Processing event with trace_id: 7f423f41-0549-41a3-a19e-cb8c13b27561
+2024-02-15 14:22:39,811 - basicLogger - DEBUG - Processing event with trace_id: 2ece315b-07d7-4a8a-a070-3089b6ca0d98
+2024-02-15 14:22:39,815 - basicLogger - DEBUG - Processing event with trace_id: bdfe5bad-88ec-4f8d-b2e1-8be2ca5ba83f
+2024-02-15 14:22:39,815 - basicLogger - DEBUG - Processing event with trace_id: 03e20058-d037-4b04-a767-da65ca82f868
+2024-02-15 14:22:39,815 - basicLogger - DEBUG - Processing event with trace_id: 43ce8d2f-d3ea-4ad1-935b-b5682ba4b7f2
+2024-02-15 14:22:39,815 - basicLogger - DEBUG - Processing event with trace_id: 34f6d6d2-1261-455e-9230-d8c6095522d5
+2024-02-15 14:22:39,815 - basicLogger - DEBUG - Processing event with trace_id: 2f293957-0de0-41e3-b384-8ae9250736aa
+2024-02-15 14:22:39,815 - basicLogger - DEBUG - Processing event with trace_id: 2d2a9728-b391-4329-8323-ba86eaf380a3
+2024-02-15 14:22:39,815 - basicLogger - DEBUG - Processing event with trace_id: a3019306-b658-44e5-9b7d-bd4076d267a2
+2024-02-15 14:22:39,816 - basicLogger - DEBUG - Processing event with trace_id: 1801ceb5-2356-4d38-9fc1-b50f5a28ab41
+2024-02-15 14:22:39,816 - basicLogger - DEBUG - Processing event with trace_id: 81fe359e-2182-415f-a28b-04c009eab29e
+2024-02-15 14:22:39,816 - basicLogger - DEBUG - Processing event with trace_id: 4ca14fc8-0b06-488d-a01a-c2b854aaec59
+2024-02-15 14:22:39,816 - basicLogger - DEBUG - Processing event with trace_id: 5cf29f80-9adf-490b-a988-bd101fd54ce1
+2024-02-15 14:22:39,816 - basicLogger - DEBUG - Processing event with trace_id: a95f333f-392e-4934-9d6a-7a8a5717ad1c
+2024-02-15 14:22:39,818 - basicLogger - DEBUG - Processing event with trace_id: e3a6b253-07b9-4aa2-aa28-5b1d7c7132d7
+2024-02-15 14:22:39,818 - basicLogger - DEBUG - Processing event with trace_id: 477cdd81-085f-413c-9bcc-2cd19d65b09f
+2024-02-15 14:22:39,818 - basicLogger - DEBUG - Processing event with trace_id: 196eff34-79f1-49ba-8b6c-402d0db97042
+2024-02-15 14:22:39,818 - basicLogger - DEBUG - Processing event with trace_id: a4783f82-2d83-494b-ada7-f867c32da876
+2024-02-15 14:22:39,818 - basicLogger - DEBUG - Processing event with trace_id: 7d10b359-7a4d-4f45-8982-650649f159b3
+2024-02-15 14:22:39,818 - basicLogger - DEBUG - Processing event with trace_id: 45746cb9-2592-47d1-9484-f601c61df7ce
+2024-02-15 14:22:39,818 - basicLogger - DEBUG - Processing event with trace_id: d5ed4c86-a917-4fab-b85f-9e631354ac37
+2024-02-15 14:22:39,819 - basicLogger - DEBUG - Processing event with trace_id: b8660a8d-6add-4c40-b5ec-5dc53739354a
+2024-02-15 14:22:39,819 - basicLogger - DEBUG - Processing event with trace_id: c21913b1-898b-49d1-a127-98a764ae720d
+2024-02-15 14:22:39,819 - basicLogger - DEBUG - Processing event with trace_id: 1cca898b-d5fd-481d-80cd-6f586e96e7d1
+2024-02-15 14:22:39,819 - basicLogger - DEBUG - Processing event with trace_id: 17a20ca2-c0ee-4259-8311-72190a1de50b
+2024-02-15 14:22:39,819 - basicLogger - DEBUG - Processing event with trace_id: 3644bb80-d811-49f2-a6c8-018acc7d4580
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: 07ec1efa-0515-4497-8db9-31d1c5d62c28
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: 23619d36-78b0-4201-9868-80b35dbe4883
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: 7af25409-3f01-439f-a1e7-e2de54cf759f
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: 361528ca-62df-484f-a6cb-de345ffd38e1
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: 250d4665-beee-4f2a-a896-c7b9627bc219
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: 8ccd6cfd-36a9-4512-89d8-962a82fcb278
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: 3b347695-fc20-4015-8077-eee12796b4fc
+2024-02-15 14:22:39,820 - basicLogger - DEBUG - Processing event with trace_id: a3b485cd-7ce7-467c-bcbb-6cac92e77f93
+2024-02-15 14:22:39,821 - basicLogger - DEBUG - Processing event with trace_id: fac4dae6-0ace-4c6d-b103-271d0406b94d
+2024-02-15 14:22:39,821 - basicLogger - DEBUG - Processing event with trace_id: d5df040d-8952-49bb-bd4b-7be4659ec486
+2024-02-15 14:22:39,821 - basicLogger - DEBUG - Processing event with trace_id: e605b0f6-5130-49ba-a5a5-5d2de3d19b84
+2024-02-15 14:22:39,821 - basicLogger - DEBUG - Processing event with trace_id: 4e824727-2793-4173-9c2c-bfbba2678621
+2024-02-15 14:22:39,821 - basicLogger - DEBUG - Processing event with trace_id: 93e4e981-977d-4444-91f5-fbac1447f63b
+2024-02-15 14:22:39,822 - basicLogger - DEBUG - Processing event with trace_id: 4bec166e-6a77-48fa-8d3d-7862a654ce02
+2024-02-15 14:22:39,822 - basicLogger - DEBUG - Processing event with trace_id: 5400e27c-e663-43f4-b2e3-f710867bb3b4
+2024-02-15 14:22:39,822 - basicLogger - DEBUG - Processing event with trace_id: 2fd82fcd-c5da-402b-82c5-c4c6708d1aa7
+2024-02-15 14:22:39,822 - basicLogger - DEBUG - Processing event with trace_id: a5f44d08-888b-46ee-808e-7fe8832a2378
+2024-02-15 14:22:39,822 - basicLogger - DEBUG - Processing event with trace_id: 0fd0260a-8649-44e1-a4e5-fd80846e96df
+2024-02-15 14:22:39,822 - basicLogger - DEBUG - Processing event with trace_id: d5e1726a-d0d7-4e1b-ba16-b7eafd618f2c
+2024-02-15 14:22:39,823 - basicLogger - DEBUG - Processing event with trace_id: 4731de4f-cf55-43f9-a627-95050e00ac0f
+2024-02-15 14:22:39,823 - basicLogger - DEBUG - Processing event with trace_id: c30f33c5-2360-45fb-a198-915c78a68418
+2024-02-15 14:22:39,823 - basicLogger - DEBUG - Processing event with trace_id: d47cc5dc-52e3-43e6-8e1b-e6081ca2faf5
+2024-02-15 14:22:39,823 - basicLogger - DEBUG - Processing event with trace_id: 1cc4769f-c351-40ad-acda-b765076dc585
+2024-02-15 14:22:39,832 - basicLogger - DEBUG - Updated statistics: {'num_movies': 27, 'max_movie_runtime': 200, 'num_reviews': 27, 'avg_rating': 5.674074074074075, 'last_updated': '2024-02-15T14:22:35'}
+2024-02-15 14:22:39,833 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:22:40,744 - basicLogger - INFO - start periodic processing
+2024-02-15 14:22:44,854 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:22:44,854 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:22:45,746 - basicLogger - INFO - start periodic processing
+2024-02-15 14:22:49,829 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:22:49,830 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:22:50,750 - basicLogger - INFO - start periodic processing
+2024-02-15 14:22:54,849 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:22:54,849 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:22:55,741 - basicLogger - INFO - start periodic processing
+2024-02-15 14:22:59,835 - basicLogger - INFO - Received 1 movie item and 0 review events
+2024-02-15 14:22:59,835 - basicLogger - DEBUG - Processing event with trace_id: 08c715b1-114b-4d58-89c5-82ab379a9900
+2024-02-15 14:22:59,844 - basicLogger - DEBUG - Updated statistics: {'num_movies': 28, 'max_movie_runtime': 200, 'num_reviews': 27, 'avg_rating': 5.674074074074075, 'last_updated': '2024-02-15T14:22:55'}
+2024-02-15 14:22:59,845 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:23:00,742 - basicLogger - INFO - start periodic processing
+2024-02-15 14:23:04,815 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:23:04,815 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:23:05,740 - basicLogger - INFO - start periodic processing
+2024-02-15 14:23:09,822 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:23:09,822 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:23:10,749 - basicLogger - INFO - start periodic processing
+2024-02-15 14:23:14,823 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:23:14,823 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:23:15,739 - basicLogger - INFO - start periodic processing
+2024-02-15 14:23:19,827 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:23:19,827 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:23:20,738 - basicLogger - INFO - start periodic processing
+2024-02-15 14:23:24,831 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:23:24,832 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:24:15,216 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:20,226 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:25,214 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:30,221 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:35,222 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:40,217 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:45,228 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:50,221 - basicLogger - INFO - start periodic processing
+2024-02-15 14:24:55,226 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:00,218 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:05,220 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:24,074 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:28,182 - basicLogger - INFO - Received 29 movie item and 27 review events
+2024-02-15 14:25:28,182 - basicLogger - DEBUG - Processing event with trace_id: e818a1ba-18c0-48b4-926c-168b9b6aadaa
+2024-02-15 14:25:28,182 - basicLogger - DEBUG - Processing event with trace_id: a0888c50-b01c-47b5-8709-3bcb78d176b9
+2024-02-15 14:25:28,182 - basicLogger - DEBUG - Processing event with trace_id: c3ed6a96-00e6-44b0-9241-dc833e4a2396
+2024-02-15 14:25:28,182 - basicLogger - DEBUG - Processing event with trace_id: ec1a3746-6ae0-4979-8386-32ac08b0a7aa
+2024-02-15 14:25:28,182 - basicLogger - DEBUG - Processing event with trace_id: e19f2c64-814c-43f0-b748-7aa7e9da0568
+2024-02-15 14:25:28,183 - basicLogger - DEBUG - Processing event with trace_id: 7f423f41-0549-41a3-a19e-cb8c13b27561
+2024-02-15 14:25:28,183 - basicLogger - DEBUG - Processing event with trace_id: 2ece315b-07d7-4a8a-a070-3089b6ca0d98
+2024-02-15 14:25:28,183 - basicLogger - DEBUG - Processing event with trace_id: bdfe5bad-88ec-4f8d-b2e1-8be2ca5ba83f
+2024-02-15 14:25:28,183 - basicLogger - DEBUG - Processing event with trace_id: 03e20058-d037-4b04-a767-da65ca82f868
+2024-02-15 14:25:28,183 - basicLogger - DEBUG - Processing event with trace_id: 43ce8d2f-d3ea-4ad1-935b-b5682ba4b7f2
+2024-02-15 14:25:28,184 - basicLogger - DEBUG - Processing event with trace_id: 34f6d6d2-1261-455e-9230-d8c6095522d5
+2024-02-15 14:25:28,184 - basicLogger - DEBUG - Processing event with trace_id: 2f293957-0de0-41e3-b384-8ae9250736aa
+2024-02-15 14:25:28,184 - basicLogger - DEBUG - Processing event with trace_id: 2d2a9728-b391-4329-8323-ba86eaf380a3
+2024-02-15 14:25:28,184 - basicLogger - DEBUG - Processing event with trace_id: a3019306-b658-44e5-9b7d-bd4076d267a2
+2024-02-15 14:25:28,184 - basicLogger - DEBUG - Processing event with trace_id: 1801ceb5-2356-4d38-9fc1-b50f5a28ab41
+2024-02-15 14:25:28,184 - basicLogger - DEBUG - Processing event with trace_id: 81fe359e-2182-415f-a28b-04c009eab29e
+2024-02-15 14:25:28,184 - basicLogger - DEBUG - Processing event with trace_id: 4ca14fc8-0b06-488d-a01a-c2b854aaec59
+2024-02-15 14:25:28,185 - basicLogger - DEBUG - Processing event with trace_id: 5cf29f80-9adf-490b-a988-bd101fd54ce1
+2024-02-15 14:25:28,185 - basicLogger - DEBUG - Processing event with trace_id: a95f333f-392e-4934-9d6a-7a8a5717ad1c
+2024-02-15 14:25:28,185 - basicLogger - DEBUG - Processing event with trace_id: e3a6b253-07b9-4aa2-aa28-5b1d7c7132d7
+2024-02-15 14:25:28,185 - basicLogger - DEBUG - Processing event with trace_id: 477cdd81-085f-413c-9bcc-2cd19d65b09f
+2024-02-15 14:25:28,185 - basicLogger - DEBUG - Processing event with trace_id: 196eff34-79f1-49ba-8b6c-402d0db97042
+2024-02-15 14:25:28,185 - basicLogger - DEBUG - Processing event with trace_id: a4783f82-2d83-494b-ada7-f867c32da876
+2024-02-15 14:25:28,185 - basicLogger - DEBUG - Processing event with trace_id: 7d10b359-7a4d-4f45-8982-650649f159b3
+2024-02-15 14:25:28,186 - basicLogger - DEBUG - Processing event with trace_id: 45746cb9-2592-47d1-9484-f601c61df7ce
+2024-02-15 14:25:28,186 - basicLogger - DEBUG - Processing event with trace_id: d5ed4c86-a917-4fab-b85f-9e631354ac37
+2024-02-15 14:25:28,186 - basicLogger - DEBUG - Processing event with trace_id: b8660a8d-6add-4c40-b5ec-5dc53739354a
+2024-02-15 14:25:28,186 - basicLogger - DEBUG - Processing event with trace_id: 08c715b1-114b-4d58-89c5-82ab379a9900
+2024-02-15 14:25:28,186 - basicLogger - DEBUG - Processing event with trace_id: b32f828f-68dd-4051-b402-6e1dc34cb49b
+2024-02-15 14:25:28,186 - basicLogger - DEBUG - Processing event with trace_id: c21913b1-898b-49d1-a127-98a764ae720d
+2024-02-15 14:25:28,186 - basicLogger - DEBUG - Processing event with trace_id: 1cca898b-d5fd-481d-80cd-6f586e96e7d1
+2024-02-15 14:25:28,187 - basicLogger - DEBUG - Processing event with trace_id: 17a20ca2-c0ee-4259-8311-72190a1de50b
+2024-02-15 14:25:28,187 - basicLogger - DEBUG - Processing event with trace_id: 3644bb80-d811-49f2-a6c8-018acc7d4580
+2024-02-15 14:25:28,187 - basicLogger - DEBUG - Processing event with trace_id: 07ec1efa-0515-4497-8db9-31d1c5d62c28
+2024-02-15 14:25:28,187 - basicLogger - DEBUG - Processing event with trace_id: 23619d36-78b0-4201-9868-80b35dbe4883
+2024-02-15 14:25:28,187 - basicLogger - DEBUG - Processing event with trace_id: 7af25409-3f01-439f-a1e7-e2de54cf759f
+2024-02-15 14:25:28,187 - basicLogger - DEBUG - Processing event with trace_id: 361528ca-62df-484f-a6cb-de345ffd38e1
+2024-02-15 14:25:28,187 - basicLogger - DEBUG - Processing event with trace_id: 250d4665-beee-4f2a-a896-c7b9627bc219
+2024-02-15 14:25:28,188 - basicLogger - DEBUG - Processing event with trace_id: 8ccd6cfd-36a9-4512-89d8-962a82fcb278
+2024-02-15 14:25:28,188 - basicLogger - DEBUG - Processing event with trace_id: 3b347695-fc20-4015-8077-eee12796b4fc
+2024-02-15 14:25:28,188 - basicLogger - DEBUG - Processing event with trace_id: a3b485cd-7ce7-467c-bcbb-6cac92e77f93
+2024-02-15 14:25:28,188 - basicLogger - DEBUG - Processing event with trace_id: fac4dae6-0ace-4c6d-b103-271d0406b94d
+2024-02-15 14:25:28,188 - basicLogger - DEBUG - Processing event with trace_id: d5df040d-8952-49bb-bd4b-7be4659ec486
+2024-02-15 14:25:28,188 - basicLogger - DEBUG - Processing event with trace_id: e605b0f6-5130-49ba-a5a5-5d2de3d19b84
+2024-02-15 14:25:28,188 - basicLogger - DEBUG - Processing event with trace_id: 4e824727-2793-4173-9c2c-bfbba2678621
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: 93e4e981-977d-4444-91f5-fbac1447f63b
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: 4bec166e-6a77-48fa-8d3d-7862a654ce02
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: 5400e27c-e663-43f4-b2e3-f710867bb3b4
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: 2fd82fcd-c5da-402b-82c5-c4c6708d1aa7
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: a5f44d08-888b-46ee-808e-7fe8832a2378
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: 0fd0260a-8649-44e1-a4e5-fd80846e96df
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: d5e1726a-d0d7-4e1b-ba16-b7eafd618f2c
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: 4731de4f-cf55-43f9-a627-95050e00ac0f
+2024-02-15 14:25:28,189 - basicLogger - DEBUG - Processing event with trace_id: c30f33c5-2360-45fb-a198-915c78a68418
+2024-02-15 14:25:28,190 - basicLogger - DEBUG - Processing event with trace_id: d47cc5dc-52e3-43e6-8e1b-e6081ca2faf5
+2024-02-15 14:25:28,190 - basicLogger - DEBUG - Processing event with trace_id: 1cc4769f-c351-40ad-acda-b765076dc585
+2024-02-15 14:25:28,201 - basicLogger - DEBUG - Updated statistics: {'num_movies': 29, 'max_movie_runtime': 200, 'num_reviews': 27, 'avg_rating': 5.674074074074075, 'last_updated': '2024-02-15T14:25:24'}
+2024-02-15 14:25:28,201 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:25:29,072 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:33,168 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:25:33,168 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:25:34,067 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:38,140 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:25:38,140 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:25:39,067 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:43,154 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:25:43,155 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:25:44,079 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:48,144 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:25:48,144 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:25:49,082 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:53,149 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:25:53,149 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:25:54,068 - basicLogger - INFO - start periodic processing
+2024-02-15 14:25:58,152 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:25:58,153 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:25:59,073 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:03,151 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:03,151 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:04,078 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:08,174 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:08,175 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:09,081 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:13,166 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:13,166 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:14,077 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:18,168 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:18,168 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:19,076 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:23,163 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:23,163 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:24,072 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:28,174 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:28,175 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:29,071 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:33,140 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:33,141 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:34,070 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:38,158 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:38,158 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:39,080 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:43,177 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:43,177 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:44,070 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:48,160 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:26:48,160 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:26:49,068 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:54,067 - basicLogger - INFO - start periodic processing
+2024-02-15 14:26:59,073 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:04,082 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:09,081 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:14,068 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:19,072 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:24,069 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:29,077 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:33,213 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:27:33,213 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:27:34,073 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:38,153 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:27:38,153 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:27:39,071 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:43,135 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:27:43,136 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:27:44,069 - basicLogger - INFO - start periodic processing
+2024-02-15 14:27:48,150 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:27:48,150 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:07,486 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:11,586 - basicLogger - INFO - Received 29 movie item and 27 review events
+2024-02-15 14:28:11,586 - basicLogger - DEBUG - Processing event with trace_id: e818a1ba-18c0-48b4-926c-168b9b6aadaa
+2024-02-15 14:28:11,586 - basicLogger - DEBUG - Processing event with trace_id: a0888c50-b01c-47b5-8709-3bcb78d176b9
+2024-02-15 14:28:11,587 - basicLogger - DEBUG - Processing event with trace_id: c3ed6a96-00e6-44b0-9241-dc833e4a2396
+2024-02-15 14:28:11,587 - basicLogger - DEBUG - Processing event with trace_id: ec1a3746-6ae0-4979-8386-32ac08b0a7aa
+2024-02-15 14:28:11,587 - basicLogger - DEBUG - Processing event with trace_id: e19f2c64-814c-43f0-b748-7aa7e9da0568
+2024-02-15 14:28:11,587 - basicLogger - DEBUG - Processing event with trace_id: 7f423f41-0549-41a3-a19e-cb8c13b27561
+2024-02-15 14:28:11,587 - basicLogger - DEBUG - Processing event with trace_id: 2ece315b-07d7-4a8a-a070-3089b6ca0d98
+2024-02-15 14:28:11,588 - basicLogger - DEBUG - Processing event with trace_id: bdfe5bad-88ec-4f8d-b2e1-8be2ca5ba83f
+2024-02-15 14:28:11,588 - basicLogger - DEBUG - Processing event with trace_id: 03e20058-d037-4b04-a767-da65ca82f868
+2024-02-15 14:28:11,588 - basicLogger - DEBUG - Processing event with trace_id: 43ce8d2f-d3ea-4ad1-935b-b5682ba4b7f2
+2024-02-15 14:28:11,588 - basicLogger - DEBUG - Processing event with trace_id: 34f6d6d2-1261-455e-9230-d8c6095522d5
+2024-02-15 14:28:11,589 - basicLogger - DEBUG - Processing event with trace_id: 2f293957-0de0-41e3-b384-8ae9250736aa
+2024-02-15 14:28:11,589 - basicLogger - DEBUG - Processing event with trace_id: 2d2a9728-b391-4329-8323-ba86eaf380a3
+2024-02-15 14:28:11,589 - basicLogger - DEBUG - Processing event with trace_id: a3019306-b658-44e5-9b7d-bd4076d267a2
+2024-02-15 14:28:11,589 - basicLogger - DEBUG - Processing event with trace_id: 1801ceb5-2356-4d38-9fc1-b50f5a28ab41
+2024-02-15 14:28:11,589 - basicLogger - DEBUG - Processing event with trace_id: 81fe359e-2182-415f-a28b-04c009eab29e
+2024-02-15 14:28:11,590 - basicLogger - DEBUG - Processing event with trace_id: 4ca14fc8-0b06-488d-a01a-c2b854aaec59
+2024-02-15 14:28:11,590 - basicLogger - DEBUG - Processing event with trace_id: 5cf29f80-9adf-490b-a988-bd101fd54ce1
+2024-02-15 14:28:11,590 - basicLogger - DEBUG - Processing event with trace_id: a95f333f-392e-4934-9d6a-7a8a5717ad1c
+2024-02-15 14:28:11,590 - basicLogger - DEBUG - Processing event with trace_id: e3a6b253-07b9-4aa2-aa28-5b1d7c7132d7
+2024-02-15 14:28:11,591 - basicLogger - DEBUG - Processing event with trace_id: 477cdd81-085f-413c-9bcc-2cd19d65b09f
+2024-02-15 14:28:11,591 - basicLogger - DEBUG - Processing event with trace_id: 196eff34-79f1-49ba-8b6c-402d0db97042
+2024-02-15 14:28:11,591 - basicLogger - DEBUG - Processing event with trace_id: a4783f82-2d83-494b-ada7-f867c32da876
+2024-02-15 14:28:11,591 - basicLogger - DEBUG - Processing event with trace_id: 7d10b359-7a4d-4f45-8982-650649f159b3
+2024-02-15 14:28:11,591 - basicLogger - DEBUG - Processing event with trace_id: 45746cb9-2592-47d1-9484-f601c61df7ce
+2024-02-15 14:28:11,591 - basicLogger - DEBUG - Processing event with trace_id: d5ed4c86-a917-4fab-b85f-9e631354ac37
+2024-02-15 14:28:11,592 - basicLogger - DEBUG - Processing event with trace_id: b8660a8d-6add-4c40-b5ec-5dc53739354a
+2024-02-15 14:28:11,592 - basicLogger - DEBUG - Processing event with trace_id: 08c715b1-114b-4d58-89c5-82ab379a9900
+2024-02-15 14:28:11,592 - basicLogger - DEBUG - Processing event with trace_id: b32f828f-68dd-4051-b402-6e1dc34cb49b
+2024-02-15 14:28:11,592 - basicLogger - DEBUG - Processing event with trace_id: c21913b1-898b-49d1-a127-98a764ae720d
+2024-02-15 14:28:11,592 - basicLogger - DEBUG - Processing event with trace_id: 1cca898b-d5fd-481d-80cd-6f586e96e7d1
+2024-02-15 14:28:11,592 - basicLogger - DEBUG - Processing event with trace_id: 17a20ca2-c0ee-4259-8311-72190a1de50b
+2024-02-15 14:28:11,593 - basicLogger - DEBUG - Processing event with trace_id: 3644bb80-d811-49f2-a6c8-018acc7d4580
+2024-02-15 14:28:11,593 - basicLogger - DEBUG - Processing event with trace_id: 07ec1efa-0515-4497-8db9-31d1c5d62c28
+2024-02-15 14:28:11,593 - basicLogger - DEBUG - Processing event with trace_id: 23619d36-78b0-4201-9868-80b35dbe4883
+2024-02-15 14:28:11,594 - basicLogger - DEBUG - Processing event with trace_id: 7af25409-3f01-439f-a1e7-e2de54cf759f
+2024-02-15 14:28:11,594 - basicLogger - DEBUG - Processing event with trace_id: 361528ca-62df-484f-a6cb-de345ffd38e1
+2024-02-15 14:28:11,594 - basicLogger - DEBUG - Processing event with trace_id: 250d4665-beee-4f2a-a896-c7b9627bc219
+2024-02-15 14:28:11,594 - basicLogger - DEBUG - Processing event with trace_id: 8ccd6cfd-36a9-4512-89d8-962a82fcb278
+2024-02-15 14:28:11,594 - basicLogger - DEBUG - Processing event with trace_id: 3b347695-fc20-4015-8077-eee12796b4fc
+2024-02-15 14:28:11,594 - basicLogger - DEBUG - Processing event with trace_id: a3b485cd-7ce7-467c-bcbb-6cac92e77f93
+2024-02-15 14:28:11,595 - basicLogger - DEBUG - Processing event with trace_id: fac4dae6-0ace-4c6d-b103-271d0406b94d
+2024-02-15 14:28:11,595 - basicLogger - DEBUG - Processing event with trace_id: d5df040d-8952-49bb-bd4b-7be4659ec486
+2024-02-15 14:28:11,595 - basicLogger - DEBUG - Processing event with trace_id: e605b0f6-5130-49ba-a5a5-5d2de3d19b84
+2024-02-15 14:28:11,595 - basicLogger - DEBUG - Processing event with trace_id: 4e824727-2793-4173-9c2c-bfbba2678621
+2024-02-15 14:28:11,595 - basicLogger - DEBUG - Processing event with trace_id: 93e4e981-977d-4444-91f5-fbac1447f63b
+2024-02-15 14:28:11,595 - basicLogger - DEBUG - Processing event with trace_id: 4bec166e-6a77-48fa-8d3d-7862a654ce02
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: 5400e27c-e663-43f4-b2e3-f710867bb3b4
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: 2fd82fcd-c5da-402b-82c5-c4c6708d1aa7
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: a5f44d08-888b-46ee-808e-7fe8832a2378
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: 0fd0260a-8649-44e1-a4e5-fd80846e96df
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: d5e1726a-d0d7-4e1b-ba16-b7eafd618f2c
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: 4731de4f-cf55-43f9-a627-95050e00ac0f
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: c30f33c5-2360-45fb-a198-915c78a68418
+2024-02-15 14:28:11,596 - basicLogger - DEBUG - Processing event with trace_id: d47cc5dc-52e3-43e6-8e1b-e6081ca2faf5
+2024-02-15 14:28:11,597 - basicLogger - DEBUG - Processing event with trace_id: 1cc4769f-c351-40ad-acda-b765076dc585
+2024-02-15 14:28:11,608 - basicLogger - DEBUG - Updated statistics: {'num_movies': 29, 'max_movie_runtime': 200, 'num_reviews': 27, 'avg_rating': 5.674074074074075, 'last_updated': '2024-02-15T14:28:07'}
+2024-02-15 14:28:11,608 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:28:12,484 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:16,594 - basicLogger - INFO - Received 1 movie item and 0 review events
+2024-02-15 14:28:16,595 - basicLogger - DEBUG - Processing event with trace_id: 4fb648bb-93a3-45f7-87f4-b9a91a67227e
+2024-02-15 14:28:16,600 - basicLogger - DEBUG - Updated statistics: {'num_movies': 30, 'max_movie_runtime': 200, 'num_reviews': 27, 'avg_rating': 5.674074074074075, 'last_updated': '2024-02-15T14:28:12'}
+2024-02-15 14:28:16,601 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:28:17,482 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:21,558 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:21,559 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:22,488 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:26,563 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:26,563 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:27,483 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:31,570 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:31,570 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:32,480 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:33,508 - basicLogger - INFO - Retrieving stats...
+2024-02-15 14:28:33,512 - basicLogger - DEBUG - Retrieved stats: {'num_movies': 30, 'max_movie_runtime': 200, 'num_reviews': 27, 'avg_rating': 5.674074074074075, 'last_updated': '2024-02-15T14:28:12'}
+2024-02-15 14:28:33,512 - basicLogger - INFO - request successful
+2024-02-15 14:28:36,566 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:36,567 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:37,490 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:41,549 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:41,550 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:42,490 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:46,567 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:46,567 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:47,481 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:51,558 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:51,558 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:52,482 - basicLogger - INFO - start periodic processing
+2024-02-15 14:28:56,558 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:28:56,558 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:28:57,484 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:01,573 - basicLogger - INFO - Received 10 movie item and 8 review events
+2024-02-15 14:29:01,573 - basicLogger - DEBUG - Processing event with trace_id: 5b5d33bc-3803-4271-95f6-d7551bd9931e
+2024-02-15 14:29:01,574 - basicLogger - DEBUG - Processing event with trace_id: 23701e1d-72c6-4d14-87d1-6caffc5e5f07
+2024-02-15 14:29:01,574 - basicLogger - DEBUG - Processing event with trace_id: 0b19116b-0898-4717-97d4-46669ec9a082
+2024-02-15 14:29:01,574 - basicLogger - DEBUG - Processing event with trace_id: 59770f19-e082-4398-ae38-7f788ec0dddb
+2024-02-15 14:29:01,574 - basicLogger - DEBUG - Processing event with trace_id: ceb035bf-8233-4879-9e4d-a9920cacb2b4
+2024-02-15 14:29:01,574 - basicLogger - DEBUG - Processing event with trace_id: 64ed6ffe-1a50-4f9e-82fb-9607a2e67b5d
+2024-02-15 14:29:01,575 - basicLogger - DEBUG - Processing event with trace_id: c07f9785-0574-4c73-80a2-609115a51de3
+2024-02-15 14:29:01,575 - basicLogger - DEBUG - Processing event with trace_id: 70ab99d6-2eee-4371-a1c3-5ecb8cb408d5
+2024-02-15 14:29:01,575 - basicLogger - DEBUG - Processing event with trace_id: cb281f38-5420-4931-86dd-1a2a4c751492
+2024-02-15 14:29:01,575 - basicLogger - DEBUG - Processing event with trace_id: 0c33ef27-83cc-4906-9b5e-d5759c7c78a9
+2024-02-15 14:29:01,575 - basicLogger - DEBUG - Processing event with trace_id: 2633980b-ce74-4bfe-ac57-e1d6cbcf6e3f
+2024-02-15 14:29:01,576 - basicLogger - DEBUG - Processing event with trace_id: fa55dc76-fcc1-48d6-82a8-5ada71a90dd3
+2024-02-15 14:29:01,576 - basicLogger - DEBUG - Processing event with trace_id: 3b804d65-bfd2-4bcc-bf2e-7e2eebf23e75
+2024-02-15 14:29:01,576 - basicLogger - DEBUG - Processing event with trace_id: 6b25ff35-72c5-4c8a-89cc-6216007f4edf
+2024-02-15 14:29:01,576 - basicLogger - DEBUG - Processing event with trace_id: 040a3f3c-e508-4107-8ce2-a4b6896ef594
+2024-02-15 14:29:01,576 - basicLogger - DEBUG - Processing event with trace_id: 09f1ee8a-4d73-43a2-ac29-77a6cc091a5d
+2024-02-15 14:29:01,577 - basicLogger - DEBUG - Processing event with trace_id: 178340a7-c5f7-4c6f-8779-91eee5fe01df
+2024-02-15 14:29:01,577 - basicLogger - DEBUG - Processing event with trace_id: aec7e0d4-0cb6-464d-a0da-da51391fad88
+2024-02-15 14:29:01,583 - basicLogger - DEBUG - Updated statistics: {'num_movies': 40, 'max_movie_runtime': 200, 'num_reviews': 35, 'avg_rating': 5.94, 'last_updated': '2024-02-15T14:28:57'}
+2024-02-15 14:29:01,583 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:02,484 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:06,565 - basicLogger - INFO - Received 10 movie item and 12 review events
+2024-02-15 14:29:06,565 - basicLogger - DEBUG - Processing event with trace_id: 64dd8182-8094-4c85-903c-623d8dae926d
+2024-02-15 14:29:06,565 - basicLogger - DEBUG - Processing event with trace_id: 3fdc14b2-70b9-4e44-b620-1697dde36652
+2024-02-15 14:29:06,565 - basicLogger - DEBUG - Processing event with trace_id: 72f6d725-66e0-4124-8a7d-183525f5a78e
+2024-02-15 14:29:06,565 - basicLogger - DEBUG - Processing event with trace_id: d433dcaf-7ba4-4423-a771-400d7a9607c7
+2024-02-15 14:29:06,565 - basicLogger - DEBUG - Processing event with trace_id: e2a01cc6-97bf-4dcd-9640-f65a5857b5e4
+2024-02-15 14:29:06,566 - basicLogger - DEBUG - Processing event with trace_id: eefd14d1-099a-49f0-82b3-fcd7a6c85979
+2024-02-15 14:29:06,566 - basicLogger - DEBUG - Processing event with trace_id: 66cf0aa6-f8d5-462e-b0b0-14bb0be906ba
+2024-02-15 14:29:06,566 - basicLogger - DEBUG - Processing event with trace_id: 21453c33-c441-4e86-ab7e-802f7b10b36d
+2024-02-15 14:29:06,566 - basicLogger - DEBUG - Processing event with trace_id: 1ada7889-a9fc-48f3-b23e-21bb14a51b0d
+2024-02-15 14:29:06,566 - basicLogger - DEBUG - Processing event with trace_id: 3ecc09e6-6ca1-4c3a-bebc-12eec200e8b2
+2024-02-15 14:29:06,567 - basicLogger - DEBUG - Processing event with trace_id: 9f0cc681-889e-48fd-bf2d-5b30aeec44a6
+2024-02-15 14:29:06,567 - basicLogger - DEBUG - Processing event with trace_id: 07029bb5-c924-4c98-9d5e-b24389c4431f
+2024-02-15 14:29:06,567 - basicLogger - DEBUG - Processing event with trace_id: 81309958-da15-4269-9da8-1e0be911ad11
+2024-02-15 14:29:06,567 - basicLogger - DEBUG - Processing event with trace_id: 5762539d-c8ca-42d5-a1c5-f75d209e8264
+2024-02-15 14:29:06,567 - basicLogger - DEBUG - Processing event with trace_id: a7d708ac-fb5b-4e23-9da9-e8d744062296
+2024-02-15 14:29:06,568 - basicLogger - DEBUG - Processing event with trace_id: 41617e9b-43f0-490f-aef9-4968441118a9
+2024-02-15 14:29:06,568 - basicLogger - DEBUG - Processing event with trace_id: 21161991-ef48-4089-8595-3ee51776a3fd
+2024-02-15 14:29:06,568 - basicLogger - DEBUG - Processing event with trace_id: 172ba399-b558-4a6a-a4e6-c9d10b51904e
+2024-02-15 14:29:06,568 - basicLogger - DEBUG - Processing event with trace_id: d0f08aff-aaa2-4478-b492-3f92c0bf17e4
+2024-02-15 14:29:06,568 - basicLogger - DEBUG - Processing event with trace_id: 8cbe04e7-0612-409a-9d5d-ba2e8b6a8b4e
+2024-02-15 14:29:06,568 - basicLogger - DEBUG - Processing event with trace_id: 78a659a2-1161-43d9-8cc0-f2ab036474f2
+2024-02-15 14:29:06,569 - basicLogger - DEBUG - Processing event with trace_id: 8ca20214-5e93-4dc6-8eae-b82389d39071
+2024-02-15 14:29:06,575 - basicLogger - DEBUG - Updated statistics: {'num_movies': 50, 'max_movie_runtime': 200, 'num_reviews': 47, 'avg_rating': 5.482978723404255, 'last_updated': '2024-02-15T14:29:02'}
+2024-02-15 14:29:06,575 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:07,486 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:11,566 - basicLogger - INFO - Received 16 movie item and 10 review events
+2024-02-15 14:29:11,566 - basicLogger - DEBUG - Processing event with trace_id: 17e9581b-1755-4c37-b92b-d439c4707c0b
+2024-02-15 14:29:11,567 - basicLogger - DEBUG - Processing event with trace_id: f67eb97e-1eaa-47d5-bc85-5f1214990e3b
+2024-02-15 14:29:11,567 - basicLogger - DEBUG - Processing event with trace_id: 6965209d-7c50-4f85-b4a3-c991930d96d2
+2024-02-15 14:29:11,567 - basicLogger - DEBUG - Processing event with trace_id: 501e6812-262d-4e4e-a8ab-61b25e4fd628
+2024-02-15 14:29:11,567 - basicLogger - DEBUG - Processing event with trace_id: e994adc5-9a47-4048-892a-6d9813577c19
+2024-02-15 14:29:11,568 - basicLogger - DEBUG - Processing event with trace_id: f868dd17-723c-4e4f-a494-16a67e811873
+2024-02-15 14:29:11,568 - basicLogger - DEBUG - Processing event with trace_id: 051fbcf6-7259-4fa6-b100-766574310508
+2024-02-15 14:29:11,568 - basicLogger - DEBUG - Processing event with trace_id: 3ac7e53d-362e-4739-a252-d74b1088bb72
+2024-02-15 14:29:11,568 - basicLogger - DEBUG - Processing event with trace_id: 6c99dc62-a903-48bb-8897-50bf38043409
+2024-02-15 14:29:11,568 - basicLogger - DEBUG - Processing event with trace_id: b14cf9ce-8cbf-42ae-b947-5c0c707b6cea
+2024-02-15 14:29:11,569 - basicLogger - DEBUG - Processing event with trace_id: e5cb87a3-927b-4393-a028-50e6da2025f3
+2024-02-15 14:29:11,569 - basicLogger - DEBUG - Processing event with trace_id: 8894804a-8f0a-47c7-bea1-44ae0a371865
+2024-02-15 14:29:11,570 - basicLogger - DEBUG - Processing event with trace_id: 387633a8-6685-4a50-a38d-4f42bc01f15a
+2024-02-15 14:29:11,570 - basicLogger - DEBUG - Processing event with trace_id: fc98d397-710f-4ecd-b22c-dacfffbc355f
+2024-02-15 14:29:11,570 - basicLogger - DEBUG - Processing event with trace_id: 992ce7dc-6c3b-4c2d-ab3a-c5dddfa68179
+2024-02-15 14:29:11,570 - basicLogger - DEBUG - Processing event with trace_id: 8b3e4ed0-4396-491e-8565-59886ea00f59
+2024-02-15 14:29:11,570 - basicLogger - DEBUG - Processing event with trace_id: 1bf6d703-f3b9-40f8-8387-16e4c4efa5b1
+2024-02-15 14:29:11,571 - basicLogger - DEBUG - Processing event with trace_id: d0c24139-cc86-4df1-a1c5-1d96f201b19f
+2024-02-15 14:29:11,571 - basicLogger - DEBUG - Processing event with trace_id: 1d338e2d-abde-45a8-9049-15f6fe89202e
+2024-02-15 14:29:11,571 - basicLogger - DEBUG - Processing event with trace_id: f8b36ea4-b228-43df-8669-97ecb7246355
+2024-02-15 14:29:11,571 - basicLogger - DEBUG - Processing event with trace_id: ad3b1e13-bf42-4f75-ac01-2dc561d02643
+2024-02-15 14:29:11,571 - basicLogger - DEBUG - Processing event with trace_id: 4902b6cf-1109-449c-af67-3b2c2552b0eb
+2024-02-15 14:29:11,572 - basicLogger - DEBUG - Processing event with trace_id: 6f74bec1-15f1-4826-a2da-f8479791a40a
+2024-02-15 14:29:11,572 - basicLogger - DEBUG - Processing event with trace_id: 77d1afc9-f95d-436b-844a-44b93f3ffbe9
+2024-02-15 14:29:11,572 - basicLogger - DEBUG - Processing event with trace_id: 77ab3a8a-4d77-49c1-ad51-8f1454ee4107
+2024-02-15 14:29:11,572 - basicLogger - DEBUG - Processing event with trace_id: 20748318-101d-4856-8ad0-3a0f670a2acd
+2024-02-15 14:29:11,578 - basicLogger - DEBUG - Updated statistics: {'num_movies': 66, 'max_movie_runtime': 200, 'num_reviews': 57, 'avg_rating': 5.491228070175438, 'last_updated': '2024-02-15T14:29:07'}
+2024-02-15 14:29:11,578 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:12,488 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:16,591 - basicLogger - INFO - Received 14 movie item and 10 review events
+2024-02-15 14:29:16,592 - basicLogger - DEBUG - Processing event with trace_id: e4c2cc9e-65fc-46d7-b039-1a941166083e
+2024-02-15 14:29:16,592 - basicLogger - DEBUG - Processing event with trace_id: 154e2438-563d-4492-b333-78b77d5597e7
+2024-02-15 14:29:16,593 - basicLogger - DEBUG - Processing event with trace_id: 0d8dbb4c-3183-4288-959f-0a0b6cfa3919
+2024-02-15 14:29:16,593 - basicLogger - DEBUG - Processing event with trace_id: f685efcf-3acb-4435-b023-9d127fadb82f
+2024-02-15 14:29:16,593 - basicLogger - DEBUG - Processing event with trace_id: 83b8f80e-3c02-44ee-ae30-7971c1ef4e70
+2024-02-15 14:29:16,593 - basicLogger - DEBUG - Processing event with trace_id: 617b266c-ef90-4ddb-8f4a-218f398887ee
+2024-02-15 14:29:16,594 - basicLogger - DEBUG - Processing event with trace_id: 5e6cfa0c-cb3c-463f-9f01-fbfc7673834e
+2024-02-15 14:29:16,594 - basicLogger - DEBUG - Processing event with trace_id: fc4fc5c8-0764-4253-aa1e-7f9de94eb357
+2024-02-15 14:29:16,594 - basicLogger - DEBUG - Processing event with trace_id: 2a163602-df62-4bc7-917e-3208d61554ea
+2024-02-15 14:29:16,594 - basicLogger - DEBUG - Processing event with trace_id: f96ce171-7736-4983-a0eb-816bf9e8ae75
+2024-02-15 14:29:16,595 - basicLogger - DEBUG - Processing event with trace_id: be8e5fe7-83b2-499b-affa-deb6e41ad125
+2024-02-15 14:29:16,595 - basicLogger - DEBUG - Processing event with trace_id: ec2d421f-bd9f-4292-936a-e78bc61fa2b7
+2024-02-15 14:29:16,595 - basicLogger - DEBUG - Processing event with trace_id: ab8d0f55-0b87-47fc-ba9a-082d18b5e440
+2024-02-15 14:29:16,596 - basicLogger - DEBUG - Processing event with trace_id: afcaa440-3f1c-4dcb-b23a-deae2013a1cc
+2024-02-15 14:29:16,596 - basicLogger - DEBUG - Processing event with trace_id: bf972ced-5cac-4dba-b604-580228eea017
+2024-02-15 14:29:16,596 - basicLogger - DEBUG - Processing event with trace_id: 698206ab-a335-4192-a691-94c52addfabe
+2024-02-15 14:29:16,596 - basicLogger - DEBUG - Processing event with trace_id: 4a1b365e-55a9-4133-883c-786fba25d64f
+2024-02-15 14:29:16,596 - basicLogger - DEBUG - Processing event with trace_id: 026c295f-306b-4de1-accd-b2734c36dd4f
+2024-02-15 14:29:16,597 - basicLogger - DEBUG - Processing event with trace_id: e248508d-8604-4925-9186-07e5af1b3b53
+2024-02-15 14:29:16,597 - basicLogger - DEBUG - Processing event with trace_id: 04a89a68-1329-4f8c-b9f3-92072a2be793
+2024-02-15 14:29:16,597 - basicLogger - DEBUG - Processing event with trace_id: 1fca9d81-29b3-4d91-a6f3-6d78cb57b8ab
+2024-02-15 14:29:16,597 - basicLogger - DEBUG - Processing event with trace_id: 5112231a-6a30-4f11-99d2-49194a629c59
+2024-02-15 14:29:16,597 - basicLogger - DEBUG - Processing event with trace_id: 33a33c48-59c2-4e3f-afa0-f5e49c6c174b
+2024-02-15 14:29:16,597 - basicLogger - DEBUG - Processing event with trace_id: 47b784d8-83cb-48a0-a481-5a19a60882a5
+2024-02-15 14:29:16,605 - basicLogger - DEBUG - Updated statistics: {'num_movies': 80, 'max_movie_runtime': 200, 'num_reviews': 67, 'avg_rating': 5.525373134328358, 'last_updated': '2024-02-15T14:29:12'}
+2024-02-15 14:29:16,605 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:17,481 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:21,578 - basicLogger - INFO - Received 10 movie item and 14 review events
+2024-02-15 14:29:21,579 - basicLogger - DEBUG - Processing event with trace_id: 7e6873b6-f451-4a33-bd57-d5cbe55f60ea
+2024-02-15 14:29:21,579 - basicLogger - DEBUG - Processing event with trace_id: 53ea016f-988b-4034-a2e4-b66c94becf84
+2024-02-15 14:29:21,579 - basicLogger - DEBUG - Processing event with trace_id: 1fb45ff9-637f-4ce8-8028-dc95719c31d9
+2024-02-15 14:29:21,579 - basicLogger - DEBUG - Processing event with trace_id: 12c1efd1-8880-441d-ac7f-91140c4a3a6b
+2024-02-15 14:29:21,579 - basicLogger - DEBUG - Processing event with trace_id: 6c88a63b-8457-4649-8a2a-c7b547d71fce
+2024-02-15 14:29:21,579 - basicLogger - DEBUG - Processing event with trace_id: 791e1de9-0e8a-4932-896e-0b746c79044b
+2024-02-15 14:29:21,580 - basicLogger - DEBUG - Processing event with trace_id: 43aeb80a-1196-4734-ae1a-a9a30cdaedfb
+2024-02-15 14:29:21,580 - basicLogger - DEBUG - Processing event with trace_id: a853734d-6d11-46fa-a506-d36b09382d8d
+2024-02-15 14:29:21,580 - basicLogger - DEBUG - Processing event with trace_id: 9e8a0154-c334-48ca-9464-04aa127bbb75
+2024-02-15 14:29:21,581 - basicLogger - DEBUG - Processing event with trace_id: 831fb8c3-4e8a-44ad-be7f-fcf2f1466bf1
+2024-02-15 14:29:21,581 - basicLogger - DEBUG - Processing event with trace_id: 3101bd61-1627-49e9-a4e9-901863e4bd48
+2024-02-15 14:29:21,581 - basicLogger - DEBUG - Processing event with trace_id: 9e5715e0-3e9b-4401-a2d0-251fae56ac1e
+2024-02-15 14:29:21,581 - basicLogger - DEBUG - Processing event with trace_id: 516eb857-c365-4d5a-b1ec-a0c8baca64bc
+2024-02-15 14:29:21,582 - basicLogger - DEBUG - Processing event with trace_id: 8f99224f-23da-4239-8a6c-2bd7bc45768b
+2024-02-15 14:29:21,582 - basicLogger - DEBUG - Processing event with trace_id: 7a40e1b2-c7e9-4d15-ab6a-cb70d91c8774
+2024-02-15 14:29:21,582 - basicLogger - DEBUG - Processing event with trace_id: 82c2403d-0609-499f-9498-8af52a5a4b88
+2024-02-15 14:29:21,582 - basicLogger - DEBUG - Processing event with trace_id: 17dbf27f-5736-4134-acd4-e8fc94b1ba0f
+2024-02-15 14:29:21,582 - basicLogger - DEBUG - Processing event with trace_id: 12c1b018-805a-4e8f-b106-9d7217a6184a
+2024-02-15 14:29:21,583 - basicLogger - DEBUG - Processing event with trace_id: 932896a2-9f22-42d3-9540-67a566c205fb
+2024-02-15 14:29:21,583 - basicLogger - DEBUG - Processing event with trace_id: 27d5f727-289e-48eb-bbe6-a8ff746b19b9
+2024-02-15 14:29:21,583 - basicLogger - DEBUG - Processing event with trace_id: a32048d7-9a63-4295-b0d4-dd8775316568
+2024-02-15 14:29:21,583 - basicLogger - DEBUG - Processing event with trace_id: 908572e3-69ba-4edd-8d58-b6d9435213c3
+2024-02-15 14:29:21,583 - basicLogger - DEBUG - Processing event with trace_id: 8953af22-5cbf-4848-997c-fc5becf39589
+2024-02-15 14:29:21,584 - basicLogger - DEBUG - Processing event with trace_id: 52c23258-43a5-4bfb-9e77-87c20275e722
+2024-02-15 14:29:21,590 - basicLogger - DEBUG - Updated statistics: {'num_movies': 90, 'max_movie_runtime': 200, 'num_reviews': 81, 'avg_rating': 5.425925925925926, 'last_updated': '2024-02-15T14:29:17'}
+2024-02-15 14:29:21,590 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:22,483 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:26,584 - basicLogger - INFO - Received 10 movie item and 16 review events
+2024-02-15 14:29:26,584 - basicLogger - DEBUG - Processing event with trace_id: 588e7e70-6235-49d1-9ff5-d3c760667c03
+2024-02-15 14:29:26,585 - basicLogger - DEBUG - Processing event with trace_id: a3eafffe-eecb-42c9-9625-ce530657a416
+2024-02-15 14:29:26,585 - basicLogger - DEBUG - Processing event with trace_id: f41d13db-6ef1-4b01-9857-fec63f0911ef
+2024-02-15 14:29:26,585 - basicLogger - DEBUG - Processing event with trace_id: d6c862df-d79d-4a39-9d1f-2437f8056f36
+2024-02-15 14:29:26,585 - basicLogger - DEBUG - Processing event with trace_id: 0a4794ce-a083-4f88-8bff-d57d248991ba
+2024-02-15 14:29:26,585 - basicLogger - DEBUG - Processing event with trace_id: 58a76812-64d3-40ad-8ba1-693154836a47
+2024-02-15 14:29:26,586 - basicLogger - DEBUG - Processing event with trace_id: 1338c158-0ba1-4f8b-b90c-74e7b32fba5a
+2024-02-15 14:29:26,586 - basicLogger - DEBUG - Processing event with trace_id: 413f83ec-9eee-4b21-83cf-349726b90bc1
+2024-02-15 14:29:26,586 - basicLogger - DEBUG - Processing event with trace_id: 76134132-fde0-4e85-8399-59338a800778
+2024-02-15 14:29:26,586 - basicLogger - DEBUG - Processing event with trace_id: 7da094bd-2af2-4afc-bb7a-63130975de87
+2024-02-15 14:29:26,587 - basicLogger - DEBUG - Processing event with trace_id: 5ac84956-08c8-4511-ba84-45ec14f32246
+2024-02-15 14:29:26,587 - basicLogger - DEBUG - Processing event with trace_id: 7cad8094-5e2b-43f7-a153-2ff60e8a99f3
+2024-02-15 14:29:26,587 - basicLogger - DEBUG - Processing event with trace_id: a7f14c56-64df-457b-bbdf-7e8b5d6e1b17
+2024-02-15 14:29:26,587 - basicLogger - DEBUG - Processing event with trace_id: c8210f90-21c3-44ca-8238-5c8a07758cba
+2024-02-15 14:29:26,588 - basicLogger - DEBUG - Processing event with trace_id: ed505269-8ac9-47aa-8087-4e34793b8fe5
+2024-02-15 14:29:26,588 - basicLogger - DEBUG - Processing event with trace_id: 10155bf9-4e05-4134-876e-38bb4e8c5676
+2024-02-15 14:29:26,588 - basicLogger - DEBUG - Processing event with trace_id: 0dbfabb4-dea3-45c1-a035-ded856921cde
+2024-02-15 14:29:26,588 - basicLogger - DEBUG - Processing event with trace_id: a6b172db-4a56-460c-b169-a31a799cc093
+2024-02-15 14:29:26,588 - basicLogger - DEBUG - Processing event with trace_id: 63e4b4f5-50e1-479d-ad66-1d7e72a14e08
+2024-02-15 14:29:26,589 - basicLogger - DEBUG - Processing event with trace_id: 8a961537-2022-4740-822d-86015a484537
+2024-02-15 14:29:26,589 - basicLogger - DEBUG - Processing event with trace_id: 87993e80-fd6b-47ef-9f71-0f80b6545bfd
+2024-02-15 14:29:26,589 - basicLogger - DEBUG - Processing event with trace_id: d64c2e03-5c43-43f3-bb53-5facf34a9ace
+2024-02-15 14:29:26,589 - basicLogger - DEBUG - Processing event with trace_id: da3377dd-6aff-47ad-a577-7857cead0e3b
+2024-02-15 14:29:26,589 - basicLogger - DEBUG - Processing event with trace_id: 0e932bf7-a7bc-4063-933b-4a248b5a18bb
+2024-02-15 14:29:26,590 - basicLogger - DEBUG - Processing event with trace_id: d332585f-079f-41bd-83e2-d0690ea14c6a
+2024-02-15 14:29:26,590 - basicLogger - DEBUG - Processing event with trace_id: 32469c43-2429-4b96-aaef-1a75260696fd
+2024-02-15 14:29:26,595 - basicLogger - DEBUG - Updated statistics: {'num_movies': 100, 'max_movie_runtime': 200, 'num_reviews': 97, 'avg_rating': 5.634020618556701, 'last_updated': '2024-02-15T14:29:22'}
+2024-02-15 14:29:26,596 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:27,482 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:31,593 - basicLogger - INFO - Received 12 movie item and 10 review events
+2024-02-15 14:29:31,593 - basicLogger - DEBUG - Processing event with trace_id: ace93d22-a9a1-4ab9-b368-e9c4fca5e467
+2024-02-15 14:29:31,593 - basicLogger - DEBUG - Processing event with trace_id: 3a574bba-f514-4f5c-a868-50ba537c6249
+2024-02-15 14:29:31,594 - basicLogger - DEBUG - Processing event with trace_id: 9a132af5-e1cb-4834-bcbd-ebb3a38bcb8b
+2024-02-15 14:29:31,594 - basicLogger - DEBUG - Processing event with trace_id: 2ea87205-c9cc-477d-922a-352e55642fb2
+2024-02-15 14:29:31,594 - basicLogger - DEBUG - Processing event with trace_id: ab5ab7f3-0d02-4c2e-a5b0-5390cee180b6
+2024-02-15 14:29:31,594 - basicLogger - DEBUG - Processing event with trace_id: 587dab1e-d0bb-40dc-9f1c-13b6f56a8593
+2024-02-15 14:29:31,594 - basicLogger - DEBUG - Processing event with trace_id: efde8d93-f734-4aa6-ba91-3106990e5d51
+2024-02-15 14:29:31,595 - basicLogger - DEBUG - Processing event with trace_id: e6db5650-c7c2-4928-846d-e3f5bbc5543a
+2024-02-15 14:29:31,595 - basicLogger - DEBUG - Processing event with trace_id: 2af4751f-2579-4033-8bde-bc5d56ff5eae
+2024-02-15 14:29:31,595 - basicLogger - DEBUG - Processing event with trace_id: 8f7d416c-5588-4b06-a214-c7bb20f86f2c
+2024-02-15 14:29:31,595 - basicLogger - DEBUG - Processing event with trace_id: 3ebf0cfc-4be8-401b-a191-9a37ad327e81
+2024-02-15 14:29:31,595 - basicLogger - DEBUG - Processing event with trace_id: dfb3b99f-3316-4332-9598-d6e4bda89bd6
+2024-02-15 14:29:31,595 - basicLogger - DEBUG - Processing event with trace_id: cee822e5-cc82-4aed-80ea-91fc6219e948
+2024-02-15 14:29:31,596 - basicLogger - DEBUG - Processing event with trace_id: 128da0f6-9624-479e-82bd-b9c820ae6232
+2024-02-15 14:29:31,596 - basicLogger - DEBUG - Processing event with trace_id: 183dc3b0-24e0-455d-a55d-6dd0b2f46798
+2024-02-15 14:29:31,596 - basicLogger - DEBUG - Processing event with trace_id: b23f0c99-0457-45e7-90e2-6eb99c790065
+2024-02-15 14:29:31,596 - basicLogger - DEBUG - Processing event with trace_id: 52661bcd-d711-45d3-9bb3-37ce0b5ad68c
+2024-02-15 14:29:31,596 - basicLogger - DEBUG - Processing event with trace_id: 54b2babc-b999-4f6b-a2b9-179e6bb0978a
+2024-02-15 14:29:31,596 - basicLogger - DEBUG - Processing event with trace_id: bf3d9ebc-7593-41b4-8da2-240f0c375d62
+2024-02-15 14:29:31,597 - basicLogger - DEBUG - Processing event with trace_id: 9484f384-b367-4899-8222-17f8f5c4c4bb
+2024-02-15 14:29:31,597 - basicLogger - DEBUG - Processing event with trace_id: 1196145e-6c65-4e21-85d7-25af7a27772c
+2024-02-15 14:29:31,597 - basicLogger - DEBUG - Processing event with trace_id: 7bc8a7e8-d9ae-47b2-9482-d1a56bbafb61
+2024-02-15 14:29:31,603 - basicLogger - DEBUG - Updated statistics: {'num_movies': 112, 'max_movie_runtime': 200, 'num_reviews': 107, 'avg_rating': 5.621495327102804, 'last_updated': '2024-02-15T14:29:27'}
+2024-02-15 14:29:31,604 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:32,481 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:36,554 - basicLogger - INFO - Received 18 movie item and 10 review events
+2024-02-15 14:29:36,554 - basicLogger - DEBUG - Processing event with trace_id: b1981e74-b292-41fa-95c9-17141fc08edc
+2024-02-15 14:29:36,554 - basicLogger - DEBUG - Processing event with trace_id: 05918580-c2e9-456e-9cfe-7d5761255ef0
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: 755c6dcd-0e82-4998-843e-ccb355ba006f
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: de681cd4-3ed9-4a1a-8da7-480f04b17e8f
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: 15eab70f-34e7-4aa5-83b8-cbaac248787a
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: ce068a91-9fad-4419-b9f6-98eb736da675
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: 0cb5b324-ffd8-4e2a-80f3-e3b763036fb2
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: a0ed9194-bc42-4165-8a69-b9141ee6d2a9
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: c0d8b735-e13a-42e3-9d51-9b8b86302496
+2024-02-15 14:29:36,555 - basicLogger - DEBUG - Processing event with trace_id: 4879be81-6778-4092-bfee-e1575a510966
+2024-02-15 14:29:36,557 - basicLogger - DEBUG - Processing event with trace_id: 198bfacb-1eab-4b2f-a475-7c019c2a131f
+2024-02-15 14:29:36,557 - basicLogger - DEBUG - Processing event with trace_id: 6c01f546-3bbf-4965-95e2-121815e77a1d
+2024-02-15 14:29:36,557 - basicLogger - DEBUG - Processing event with trace_id: 00a59a2b-a6ed-4b23-a33a-5700b3bb0102
+2024-02-15 14:29:36,557 - basicLogger - DEBUG - Processing event with trace_id: 7341baed-c489-49b9-81d4-3f0a36db023a
+2024-02-15 14:29:36,557 - basicLogger - DEBUG - Processing event with trace_id: 08e24f38-b9c5-4e9a-8bca-d3b65cb27f70
+2024-02-15 14:29:36,558 - basicLogger - DEBUG - Processing event with trace_id: 155fdded-13e3-4b94-bbac-ae064ef40296
+2024-02-15 14:29:36,558 - basicLogger - DEBUG - Processing event with trace_id: 72839950-3531-4c73-a4d5-f163872b74a6
+2024-02-15 14:29:36,558 - basicLogger - DEBUG - Processing event with trace_id: 12bfa5c5-4d08-44ac-8a29-ff3b615c3d14
+2024-02-15 14:29:36,558 - basicLogger - DEBUG - Processing event with trace_id: aa95e82c-2713-4aeb-9d04-21defa357a75
+2024-02-15 14:29:36,558 - basicLogger - DEBUG - Processing event with trace_id: eee8e4e6-9b54-459e-9ec6-1e59592f041a
+2024-02-15 14:29:36,559 - basicLogger - DEBUG - Processing event with trace_id: 0f6a925b-1d62-4ec9-a17b-25a384d0935a
+2024-02-15 14:29:36,559 - basicLogger - DEBUG - Processing event with trace_id: 7a39cf1d-1368-4c46-b001-db63e9a7b210
+2024-02-15 14:29:36,559 - basicLogger - DEBUG - Processing event with trace_id: e2f34ec0-c76a-4157-9057-b0c56516c3fa
+2024-02-15 14:29:36,559 - basicLogger - DEBUG - Processing event with trace_id: dca93c78-6005-4dee-ac92-14f0eedcb6d6
+2024-02-15 14:29:36,560 - basicLogger - DEBUG - Processing event with trace_id: 2cd5c084-18e6-48fb-9655-fbb5b1e54e63
+2024-02-15 14:29:36,560 - basicLogger - DEBUG - Processing event with trace_id: bd5c4067-97ed-4713-a9ff-2ccdc69874c2
+2024-02-15 14:29:36,560 - basicLogger - DEBUG - Processing event with trace_id: a7774352-0829-4a1b-a28f-2fa5c789ca56
+2024-02-15 14:29:36,560 - basicLogger - DEBUG - Processing event with trace_id: ea133272-ca9f-446d-9eab-4a9cd0768b7c
+2024-02-15 14:29:36,569 - basicLogger - DEBUG - Updated statistics: {'num_movies': 130, 'max_movie_runtime': 200, 'num_reviews': 117, 'avg_rating': 5.451282051282051, 'last_updated': '2024-02-15T14:29:32'}
+2024-02-15 14:29:36,569 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:37,482 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:41,589 - basicLogger - INFO - Received 0 movie item and 10 review events
+2024-02-15 14:29:41,589 - basicLogger - DEBUG - Processing event with trace_id: ddde8514-09b0-45da-81c5-6e98fba8f9e3
+2024-02-15 14:29:41,590 - basicLogger - DEBUG - Processing event with trace_id: 9f3eb5ff-79f7-4cea-bfec-ceccf938408d
+2024-02-15 14:29:41,590 - basicLogger - DEBUG - Processing event with trace_id: 1da962b2-96a5-4e10-8cf0-b12fab695658
+2024-02-15 14:29:41,590 - basicLogger - DEBUG - Processing event with trace_id: f8ddd61c-773a-41b8-88d7-0e294a4a3547
+2024-02-15 14:29:41,590 - basicLogger - DEBUG - Processing event with trace_id: 3659f0f4-434a-45c5-af7e-31efb9e2b7d2
+2024-02-15 14:29:41,590 - basicLogger - DEBUG - Processing event with trace_id: be9eb304-f78b-4d8b-a161-296f15063495
+2024-02-15 14:29:41,591 - basicLogger - DEBUG - Processing event with trace_id: 5365f899-d610-47e9-8c74-68e1b6f0508d
+2024-02-15 14:29:41,591 - basicLogger - DEBUG - Processing event with trace_id: 0a1df8fc-4e80-4c56-8a1e-c65bdf255275
+2024-02-15 14:29:41,591 - basicLogger - DEBUG - Processing event with trace_id: 283e6473-419b-4d66-83ac-d003537ef2e5
+2024-02-15 14:29:41,591 - basicLogger - DEBUG - Processing event with trace_id: 9aee1b45-432a-4d13-a4bd-ad36dae66a25
+2024-02-15 14:29:41,597 - basicLogger - DEBUG - Updated statistics: {'num_movies': 130, 'max_movie_runtime': 200, 'num_reviews': 127, 'avg_rating': 5.397637795275591, 'last_updated': '2024-02-15T14:29:37'}
+2024-02-15 14:29:41,597 - basicLogger - INFO - Periodic processing has ended
+2024-02-15 14:29:42,487 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:46,555 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:29:46,555 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:29:47,483 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:51,559 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:29:51,560 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:29:52,242 - basicLogger - INFO - Retrieving stats...
+2024-02-15 14:29:52,244 - basicLogger - DEBUG - Retrieved stats: {'num_movies': 130, 'max_movie_runtime': 200, 'num_reviews': 127, 'avg_rating': 5.397637795275591, 'last_updated': '2024-02-15T14:29:37'}
+2024-02-15 14:29:52,244 - basicLogger - INFO - request successful
+2024-02-15 14:29:52,479 - basicLogger - INFO - start periodic processing
+2024-02-15 14:29:56,569 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:29:56,569 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:29:57,487 - basicLogger - INFO - start periodic processing
+2024-02-15 14:30:01,580 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:30:01,580 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:30:02,492 - basicLogger - INFO - start periodic processing
+2024-02-15 14:30:06,591 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:30:06,591 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:30:07,486 - basicLogger - INFO - start periodic processing
+2024-02-15 14:30:11,558 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:30:11,558 - basicLogger - INFO - No new events, nothing to process. Exiting...
+2024-02-15 14:30:12,482 - basicLogger - INFO - start periodic processing
+2024-02-15 14:30:16,547 - basicLogger - INFO - Received 0 movie item and 0 review events
+2024-02-15 14:30:16,547 - basicLogger - INFO - No new events, nothing to process. Exiting...

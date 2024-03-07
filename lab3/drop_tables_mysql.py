@@ -1,7 +1,7 @@
 import mysql.connector
 
 db_conn = mysql.connector.connect(
-    host="localhost",
+    host="kafka3855.westus3.cloudapp.azure.com",
     user="python",
     password="python",
     database="events"

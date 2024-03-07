@@ -3,3 +3,7 @@ eventstore1:
   url: http://localhost:8090/movies/movieItem
 eventstore2:
   url: http://localhost:8090/movies/review
+events:
+  hostname: kafka3855.westus3.cloudapp.azure.com
+  port: 9092
+  topic: events

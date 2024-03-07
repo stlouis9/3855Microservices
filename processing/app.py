@@ -29,7 +29,7 @@ def populate_stats():
 
     # Get the current datetime
     current_datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-    """ Periodically update stats """
+    # Periodically update stats 
     logger.info("start periodic processing")
     # Read in the current statistics from the SQLite database
     session = DB_SESSION()
