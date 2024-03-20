@@ -2,6 +2,8 @@ import json
 import logging
 import logging.config
 import connexion
+from connexion.middleware import MiddlewarePosition
+from starlette.middleware.cors import CORSMiddleware
 from connexion import NoContent
 from pykafka import KafkaClient 
 import yaml
@@ -92,6 +94,14 @@ def get_review(index):
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+app.add_middleware(
+    CORSMiddleware,
+    position=MiddlewarePosition.BEFORE_EXCEPTION,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 app.add_api("openapi.yml", scrict_validation=True, validate_responses=True)
 if __name__ == "__main__":
     app.run(port=8110, host='0.0.0.0')
