@@ -14,7 +14,9 @@ export default function AppStats() {
 				console.log("Received Stats")
                 setStats(result);
                 setIsLoaded(true);
+                console.log(result)
             },(error) =>{
+                console.log(error)
                 setError(error)
                 setIsLoaded(true);
             })
@@ -43,10 +45,10 @@ export default function AppStats() {
 							<td># MR: {stats['num_reviews']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Max Movie Runtime: {stats['max_movie_runtime']}</td>
+							<td colSpan="2">Max Movie Runtime: {stats['max_movie_runtime']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Average Review Rating: {stats['avg_rating']}</td>
+							<td colSpan="2">Average Review Rating: {stats['avg_rating']}</td>
 						</tr>
 					</tbody>
                 </table>

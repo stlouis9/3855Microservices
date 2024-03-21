@@ -135,6 +135,7 @@ def get_stats():
     results["max_movie_runtime"] = stats.max_movie_runtime
     results["num_reviews"] = stats.num_reviews
     results["avg_rating"] = round(stats.avg_rating, 2)
+    results["last_updated"] = stats.last_updated.strftime("%Y-%m-%dT%H:%M:%S")
     
     logger.info("request successful")
     

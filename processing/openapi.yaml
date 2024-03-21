@@ -39,6 +39,7 @@ components:
         - max_movie_runtime
         - num_reviews
         - avg_rating
+        - last_updated
       properties:
         num_movies:
           type: integer
@@ -53,5 +54,9 @@ components:
           type: number
           format: float
           example: 7.5
+        last_updated:
+          type: string
+          format: date-time
+          example: '2021-01-01T00:00:00Z'
 
       type: object
