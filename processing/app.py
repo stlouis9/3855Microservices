@@ -59,8 +59,9 @@ def populate_stats():
     # Log the number of events received
     logger.info(f"Received {len(movieItemJSON)} movie item and {len(movieReviewJSON)} review events")
     
+    checkempty = session.query(Stats).order_by(Stats.last_updated.desc()).first()
     
-    if result is None and len(movieItemJSON) == 0 and len(movieReviewJSON) == 0:
+    if checkempty is None and len(movieItemJSON) == 0 and len(movieReviewJSON) == 0:
         logger.info("No events found, committing empty stats")
         session = DB_SESSION()
         session.add(result)
