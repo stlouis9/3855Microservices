@@ -79,6 +79,7 @@ services:
       - kafka
   dashboard:
     image: dashboard
+    restart: always
     ports:
       - "3000:3000"
     depends_on:
