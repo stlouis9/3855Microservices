@@ -60,6 +60,15 @@ def populate_stats():
     logger.info(f"Received {len(movieItemJSON)} movie item and {len(movieReviewJSON)} review events")
     
     
+    if result is None and len(movieItemJSON) == 0 and len(movieReviewJSON) == 0:
+        logger.info("No events found, committing empty stats")
+        session = DB_SESSION()
+        session.add(result)
+        session.commit()
+        session.close()
+        
+         
+    
     if len(movieItemJSON) == 0 and len(movieReviewJSON) == 0:
         logger.info("No new events, nothing to process. Exiting...")
         exit()
