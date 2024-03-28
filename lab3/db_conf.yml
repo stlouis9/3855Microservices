@@ -5,6 +5,9 @@ datastore:
   hostname: kafka3855.westus3.cloudapp.azure.com
   port: 3306
   db: events
+  pool_size: 20
+  pool_recycle: 3600
+  pool_pre_ping: True
 events:
   hostname: kafka3855.westus3.cloudapp.azure.com
   port: 9092

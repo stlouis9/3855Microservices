@@ -32,7 +32,10 @@ DB_ENGINE = create_engine(f"mysql+pymysql://"
                           f"{db_config['datastore']['password']}@"
                           f"{db_config['datastore']['hostname']}:"
                           f"{db_config['datastore']['port']}/"
-                          f"{db_config['datastore']['db']}"
+                          f"{db_config['datastore']['db']}",
+                          pool_size=db_config['datastore']['pool_size'],
+                          pool_recycle=db_config['datastore']['pool_recycle'],
+                          pool_pre_ping=db_config['datastore']['pool_pre_ping']
                           , future=True)
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
