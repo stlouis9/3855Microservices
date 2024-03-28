@@ -1,5 +1,6 @@
 import logging
 import logging.config
+import time
 import requests
 import connexion
 from connexion import NoContent
@@ -22,15 +23,32 @@ with open('log_conf.yml', 'r') as f:
 
 logger = logging.getLogger('basicLogger')
 
+
+current_retry = 0
+# Initialize KafkaClient with your Kafka server details
+while (current_retry < app_config['events']['max_retry']):
+    logger.info("Attempting to connect to Kafka. Attempt #: %s", current_retry)
+    try:
+        client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+        topic = client.topics[str.encode(app_config['events']['topic'])]
+        producer = topic.get_sync_producer()
+        logger.info("Successfully connected to Kafka on attempt #: %s", current_retry)
+        break
+    except Exception as e:
+        logger.error("Failed to connect to Kafka on attempt #:%s, error: %s", current_retry, e)
+        time.sleep(10)
+        current_retry += 1
+else:
+    logger.error("Exceeded maximum number of retries (%s) for Kafka connection", app_config['events']['max_retry'])
+
+
+
 def add_movie(body):
     trace_id = str(uuid.uuid4())
     logger.info(f"Received event <MovieItem> request with a trace id of {trace_id}")
 
     body["trace_id"] = trace_id
 
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-    producer = topic.get_sync_producer()
     msg = { "type": "movie",
             "datetime" :
                 datetime.datetime.now().strftime(
@@ -52,9 +70,6 @@ def add_movie_review(body):
 
     #response = requests.post(app_config["eventstore2"]["url"], json=body, headers={"Content-Type": "application/json"})
 
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-    producer = topic.get_sync_producer()
     msg = { "type": "review",
             "datetime" :
                 datetime.datetime.now().strftime(
