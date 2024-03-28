@@ -2,6 +2,7 @@ import datetime
 import logging
 import logging.config
 from operator import and_
+import time
 import connexion
 from connexion import NoContent
 
@@ -91,9 +92,21 @@ def process_messages():
     # Configure Kafka client
     hostname = f"{db_config['events']['hostname']}" \
                 f":{db_config['events']['port']}"
-    client = KafkaClient(hosts=hostname)
-    topic = client.topics[str.encode(db_config["events"]["topic"])]
-
+    max_retry = db_config['events']['max_retry']
+    current_retry = 0     
+    while current_retry < max_retry:
+        try:
+            logger.info(f"Connecting to Kafka, try: {current_retry}")
+            client = KafkaClient(hosts=hostname)
+            topic = client.topics[str.encode(db_config["events"]["topic"])]
+            break
+        except:
+            logger.error("Error connecting to Kafka")
+            time.sleep(10)
+            current_retry += 1
+    else:
+        logger.error("Exceeded maximum number of retries (%s) for Kafka connection", max_retry)
+    
     # Create consumer
     consumer = topic.get_simple_consumer(
         consumer_group=b"event_group",
