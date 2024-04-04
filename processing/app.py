@@ -37,7 +37,7 @@ logger = logging.getLogger('basicLogger')
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File: %s" % log_conf_file)
 
-if not os.path.isFile(app_config["datastore"]["filename"]):
+if not os.path.isfile(app_config["datastore"]["filename"]):
     logger.info("DB not found, creating SQLite database")
     conn = sqlite3.connect(["datastore"]["filename"])
     c = conn.cursor()
