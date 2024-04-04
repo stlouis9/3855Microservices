@@ -1,4 +1,5 @@
 import datetime
+import os
 import logging
 import logging.config
 from operator import and_
@@ -18,14 +19,25 @@ from movie_item import MovieItem
 from review import Review
 
 
-with open('db_conf.yml', 'r') as f:
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    db_conf_file = "/config/db_conf.yml"
+    log_conf_file = "/config/log_conf.yml"
+else:
+    print("In Dev Environment")
+    db_conf_file = "db_conf.yml"
+    log_conf_file = "log_conf.yml"
+
+with open(db_conf_file, 'r') as f:
     db_config = yaml.safe_load(f.read())
 
-with open('log_conf.yml', 'r') as f:
+with open(log_conf_file, 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
+logger.info("Db Conf File: %s" % db_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
 
 DB_ENGINE = create_engine(f"mysql+pymysql://"
                           f"{db_config['datastore']['user']}:"
