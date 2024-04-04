@@ -2,6 +2,7 @@ import datetime
 import os
 import logging
 import logging.config
+import sqlite3
 import connexion
 from connexion import NoContent
 from connexion.middleware import MiddlewarePosition
@@ -32,14 +33,32 @@ with open(log_conf_file, 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
+logger = logging.getLogger('basicLogger')
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % log_conf_file)
+
+if not os.path.isFile(app_config["datastore"]["filename"]):
+    logger.info("DB not found, creating SQLite database")
+    conn = sqlite3.connect(["datastore"]["filename"])
+    c = conn.cursor()
+
+    c.execute('''
+        CREATE TABLE stats (
+            id INTEGER PRIMARY KEY ASC,
+            num_movies INTEGER NOT NULL,
+            max_movie_runtime INTEGER,
+            num_reviews INTEGER  NOT NULL,
+            avg_rating FLOAT,
+            last_updated VARCHAR(100) NOT NULL)
+    ''')
+
+    conn.commit()
+    conn.close()
+
 DB_ENGINE = create_engine("sqlite:///%s" %
 app_config["datastore"]["filename"])
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
-
-logger = logging.getLogger('basicLogger')
-logger.info("App Conf File: %s" % app_conf_file)
-logger.info("Log Conf File: %s" % log_conf_file)
 
 def populate_stats():
 
