@@ -1,5 +1,5 @@
 @Library('shared-lib@main') _
 
-dir('receiver') {
+dir('lab2') {
     python_build('receiver', 'receiver', 8080)
 }
