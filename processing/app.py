@@ -136,15 +136,18 @@ def populate_stats():
     if len(movieItemJSON) == 0 and len(movieReviewJSON) == 0:
         logger.info("No new events, nothing to process. Exiting...")
         exit()
-    if (len(movieItemJSON) + len(movieReviewJSON)) > app_config['events']['message_limit']:
-        msg = { "type": "0004",
-                "datetime" :
-                    datetime.datetime.now().strftime(
-                        "%Y-%m-%dT%H:%M:%S"),
-                "payload": f"0004 - received {len(movieItemJSON) + len(movieReviewJSON)} events, exceeding message limit of {app_config['events']['message_limit']} " }
-        msg_str = json.dumps(msg)
-        
-        log_producer.produce(msg_str.encode('utf-8'))
+    try:
+        if (len(movieItemJSON) + len(movieReviewJSON)) > app_config['events']['message_limit']:
+            msg = { "type": "0004",
+                    "datetime" :
+                        datetime.datetime.now().strftime(
+                            "%Y-%m-%dT%H:%M:%S"),
+                    "payload": f"0004 - received {len(movieItemJSON) + len(movieReviewJSON)} events, exceeding message limit of {app_config['events']['message_limit']} " }
+            msg_str = json.dumps(msg)
+            
+            log_producer.produce(msg_str.encode('utf-8'))
+    except Exception as e:
+        logger.error("Error in sending message: %s" % e)
 
     max_runtime = result.max_movie_runtime
     avg_rating = 0.0
