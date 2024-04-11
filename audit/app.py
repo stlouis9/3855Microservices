@@ -5,6 +5,7 @@ import logging.config
 import connexion
 from connexion.middleware import MiddlewarePosition
 from starlette.middleware.cors import CORSMiddleware
+from flask_cors import CORS, cross_origin
 from connexion import NoContent
 from pykafka import KafkaClient 
 import yaml
@@ -116,6 +117,11 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type' 
+
 app.add_api("openapi.yml", base_path="/audit_log",scrict_validation=True, validate_responses=True)
 if __name__ == "__main__":
     app.run(port=8110, host='0.0.0.0')

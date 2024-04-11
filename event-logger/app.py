@@ -9,6 +9,7 @@ import connexion
 from connexion import NoContent
 from connexion.middleware import MiddlewarePosition
 from starlette.middleware.cors import CORSMiddleware
+from flask_cors import CORS, cross_origin
 from sqlalchemy import create_engine, func
 from sqlalchemy.orm import sessionmaker
 import yaml
@@ -136,7 +137,11 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-                   
+
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type' 
+
 app.add_api("openapi.yaml", base_path="/event_log",strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":

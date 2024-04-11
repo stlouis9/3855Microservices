@@ -9,6 +9,7 @@ import connexion
 from connexion import NoContent
 from connexion.middleware import MiddlewarePosition
 from starlette.middleware.cors import CORSMiddleware
+from flask_cors import CORS, cross_origin
 from pykafka import KafkaClient 
 from pykafka.common import OffsetType
 import requests
@@ -26,7 +27,7 @@ if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
 else:
     print("In Dev Environment")
     app_conf_file = "app_conf.yml"
-    log_conf_file = "log_conf.yml"                
+    log_conf_file = "log_conf.yml"                  
 
 with open(app_conf_file, 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -234,7 +235,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type' 
 
 app.add_api("openapi.yaml", base_path="/processing", strict_validation=True, validate_responses=True)
 
