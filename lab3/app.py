@@ -114,7 +114,19 @@ def process_messages():
         try:
             client = KafkaClient(hosts=hostname)
             topic = client.topics[str.encode(db_config["events"]["topic"])]
+            log_topic = client.topics[str.encode("event_log")]
+            producer = log_topic.get_sync_producer()
             logger.info("Successfully connected to Kafka on attempt #: %s", current_retry)
+            
+            msg = { "type": "0002",
+                    "datetime" :
+                        datetime.datetime.now().strftime(
+                            "%Y-%m-%dT%H:%M:%S"),
+                    "payload": f"0002 - Successfully connected to Kafka on attempt #: {current_retry}" }
+            msg_str = json.dumps(msg)
+            
+            producer.produce(msg_str.encode('utf-8'))
+            
             break
         except:
             logger.error("Error connecting to Kafka")

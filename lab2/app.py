@@ -43,8 +43,19 @@ while (current_retry < app_config['events']['max_retry']):
     try:
         client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
         topic = client.topics[str.encode(app_config['events']['topic'])]
+        log_topic = client.topics[str.encode('event_log')]
         producer = topic.get_sync_producer()
+        log_producer = log_topic.get_sync_producer()
         logger.info("Successfully connected to Kafka on attempt #: %s", current_retry)
+        
+        msg = { "type": "0001",
+                "datetime" :
+                    datetime.datetime.now().strftime(
+                        "%Y-%m-%dT%H:%M:%S"),
+                "payload": f"0001 - Successfully connected to Kafka on attempt #: {current_retry}" }
+        msg_str = json.dumps(msg)
+        
+        log_producer.produce(msg_str.encode('utf-8'))
         break
     except Exception as e:
         logger.error("Failed to connect to Kafka on attempt #:%s, error: %s", current_retry, e)

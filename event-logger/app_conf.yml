@@ -1,0 +1,8 @@
+version: 1
+datastore:
+  filename: eventStats.sqlite
+events:
+  hostname: kafka3855.westus3.cloudapp.azure.com
+  port: 9092
+  topic: events
+  max_retry: 10

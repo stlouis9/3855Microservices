@@ -1,12 +1,16 @@
 import datetime
+import json
 import os
 import logging
 import logging.config
 import sqlite3
+import time
 import connexion
 from connexion import NoContent
 from connexion.middleware import MiddlewarePosition
 from starlette.middleware.cors import CORSMiddleware
+from pykafka import KafkaClient 
+from pykafka.common import OffsetType
 import requests
 import yaml
 from sqlalchemy import create_engine
@@ -54,6 +58,32 @@ if not os.path.isfile(app_config["datastore"]["filename"]):
 
     conn.commit()
     conn.close()
+
+current_retry = 0
+# Initialize KafkaClient with your Kafka server details
+while (current_retry < app_config['events']['max_retry']):
+    logger.info("Attempting to connect to Kafka. Attempt #: %s", current_retry)
+    try:
+        client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
+        log_topic = client.topics[str.encode('event_log')]
+        log_producer = log_topic.get_sync_producer()
+        
+        msg = { "type": "0003",
+                "datetime" :
+                    datetime.datetime.now().strftime(
+                        "%Y-%m-%dT%H:%M:%S"),
+                "payload": f"0003 - Successfully connected to Kafka on attempt #: {current_retry}" }
+        msg_str = json.dumps(msg)
+        
+        log_producer.produce(msg_str.encode('utf-8'))
+        break
+    except Exception as e:
+        logger.error("Failed to connect to Kafka on attempt #:%s, error: %s", current_retry, e)
+        time.sleep(10)
+        current_retry += 1
+else:
+    logger.error("Exceeded maximum number of retries (%s) for Kafka connection", app_config['events']['max_retry'])
+
 
 DB_ENGINE = create_engine("sqlite:///%s" %
 app_config["datastore"]["filename"])
@@ -106,7 +136,15 @@ def populate_stats():
     if len(movieItemJSON) == 0 and len(movieReviewJSON) == 0:
         logger.info("No new events, nothing to process. Exiting...")
         exit()
-    
+    if len(movieItemJSON) + len(movieReviewJSON) > app_config['events']['message_limit']:
+        msg = { "type": "0004",
+                "datetime" :
+                    datetime.datetime.now().strftime(
+                        "%Y-%m-%dT%H:%M:%S"),
+                "payload": f"0004 - received {len(movieItemJSON) + len(movieReviewJSON)} events, exceeding message limit of {app_config['events']['message_limit']} " }
+        msg_str = json.dumps(msg)
+        
+        log_producer.produce(msg_str.encode('utf-8'))
 
     max_runtime = result.max_movie_runtime
     avg_rating = 0.0

@@ -1,0 +1,24 @@
+2024-04-11 10:48:10,300 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 10:48:10,300 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 10:48:10,301 - basicLogger - INFO - DB not found, creating SQLite database
+2024-04-11 10:48:42,936 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 10:48:42,936 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 10:48:42,936 - basicLogger - INFO - DB not found, creating SQLite database
+2024-04-11 10:48:42,974 - basicLogger - INFO - Attempting to connect to Kafka. Attempt #: 0
+2024-04-11 10:48:43,134 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 10:48:43,134 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 10:53:42,092 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 10:53:42,094 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 10:53:42,119 - basicLogger - INFO - Attempting to connect to Kafka. Attempt #: 0
+2024-04-11 10:53:42,188 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 10:53:42,188 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 11:01:49,990 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 11:01:49,990 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 11:01:50,010 - basicLogger - INFO - Attempting to connect to Kafka. Attempt #: 0
+2024-04-11 11:01:50,080 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 11:01:50,080 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 11:03:33,467 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 11:03:33,468 - basicLogger - INFO - Log Conf File: log_conf.yml
+2024-04-11 11:03:33,487 - basicLogger - INFO - Attempting to connect to Kafka. Attempt #: 0
+2024-04-11 11:03:33,553 - basicLogger - INFO - App Conf File: app_conf.yml
+2024-04-11 11:03:33,553 - basicLogger - INFO - Log Conf File: log_conf.yml
