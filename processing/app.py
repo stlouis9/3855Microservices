@@ -96,7 +96,6 @@ def populate_stats():
     current_datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     # Periodically update stats 
     logger.info("start periodic processing")
-    logger.info("Assignment3")
     # Read in the current statistics from the SQLite database
     session = DB_SESSION()
     result = session.query(Stats).order_by(Stats.last_updated.desc()).first()
@@ -137,7 +136,7 @@ def populate_stats():
     if len(movieItemJSON) == 0 and len(movieReviewJSON) == 0:
         logger.info("No new events, nothing to process. Exiting...")
         exit()
-    if len(movieItemJSON) + len(movieReviewJSON) > app_config['events']['message_limit']:
+    if (len(movieItemJSON) + len(movieReviewJSON)) > app_config['events']['message_limit']:
         msg = { "type": "0004",
                 "datetime" :
                     datetime.datetime.now().strftime(
