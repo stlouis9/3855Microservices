@@ -52,7 +52,7 @@ services:
     image: stlouis9/receiver:latest
     restart: always
     ports:
-      - "8080:8080"
+      - "8080"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -60,11 +60,13 @@ services:
       - /home/azureuser/logs:/logs
     depends_on:
       - kafka
+    networks:
+      - "api.network"
   storage:
     image: stlouis9/storage:latest
     restart: always
     ports:
-      - "8090:8090"
+      - "8090"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -73,12 +75,13 @@ services:
     depends_on:
       - kafka
       - db
+    networks:
+      - "api.network"
   processing:
     image: stlouis9/processing:latest
     restart: always
-    network_mode: "host"
     ports:
-      - "8100:8100"
+      - "8100"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -87,11 +90,13 @@ services:
       - processing-db:/data
     depends_on:
       - storage
+    networks:
+      - "api.network"
   audit_log:
     image: audit_log
     restart: always
     ports:
-      - "8110:8110"
+      - "8110"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -99,11 +104,13 @@ services:
       - /home/azureuser/logs:/logs
     depends_on:
       - kafka
+    networks:
+      - "api.network"
   event_log:
     image: event_log
     restart: always
     ports:
-      - "8120:8120"
+      - "8120"
     environment:
       - TARGET_ENV=test
     volumes:
@@ -112,15 +119,36 @@ services:
       - event_log-db:/data
     depends_on:
       - kafka
+    networks:
+      - "api.network"
   dashboard:
     image: dashboard
     restart: always
     ports:
-      - "3000:3000"
+      - "3000"
     depends_on:
       - "processing"
       - "audit_log"
+    networks:
+      - "api.network"
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - /home/azureuser/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - "receiver"
+      - "storage"
+      - "processing"
+      - "audit_log"
+      - "event_log"
+      - "dashboard"
+    networks:
+      - "api.network"
 volumes:
   my-db:
   processing-db:
   event_log-db:
+networks:
+  api.network:
