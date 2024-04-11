@@ -40,5 +40,6 @@ tzlocal==5.2
 urllib3==2.2.0
 uvicorn==0.27.1
 watchfiles==0.21.0
+pykafka==2.8.0
 websockets==12.0
 Werkzeug==3.0.1

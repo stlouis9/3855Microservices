@@ -99,7 +99,7 @@ def process_messages():
         stats = Statistics(
             message=msg["payload"],
             code=msg["type"],
-            date_created=msg["datetime"]
+            date_created=datetime.datetime.strptime(msg["datetime"], "%Y-%m-%dT%H:%M:%S")
         )
 
         session.add(stats)
