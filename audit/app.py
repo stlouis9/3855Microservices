@@ -116,6 +116,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-app.add_api("openapi.yml", scrict_validation=True, validate_responses=True)
+app.add_api("openapi.yml", base_path="/audit_log",scrict_validation=True, validate_responses=True)
 if __name__ == "__main__":
     app.run(port=8110, host='0.0.0.0')

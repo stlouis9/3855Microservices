@@ -137,7 +137,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
                    
-app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
+app.add_api("openapi.yaml", base_path="/event_log",strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     t1 = Thread(target=process_messages)
