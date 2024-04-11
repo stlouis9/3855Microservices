@@ -96,6 +96,7 @@ def populate_stats():
     current_datetime = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     # Periodically update stats 
     logger.info("start periodic processing")
+    logger.info("Assignment3")
     # Read in the current statistics from the SQLite database
     session = DB_SESSION()
     result = session.query(Stats).order_by(Stats.last_updated.desc()).first()
