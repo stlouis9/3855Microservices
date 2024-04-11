@@ -7,7 +7,7 @@ export default function EventStats() {
     const [error, setError] = useState(null);
 
     const getEventStats = () => {
-        fetch(`http://kafka3855.westus3.cloudapp.azure.com:8120/event_stats`) 
+        fetch(`http://kafka3855.westus3.cloudapp.azure.com/event_log/event_stats`) 
             .then(res => res.json())
             .then(
                 (result) => {
