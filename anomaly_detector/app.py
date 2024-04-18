@@ -128,10 +128,9 @@ def process_messages():
                 logger.debug(f"Stored <Review> anomaly with a trace id of {review_body['trace_id']}")
 def get_anomaly_stats(anomaly_type):
     session = DB_SESSION()
-    objs = session.query(
-            Anomaly.event_type, 
-            func.count(Anomaly.event_type).label('count')
-    ).filter(Anomaly.anomaly_type == anomaly_type).group_by(Anomaly.event_type).all()
+    objs = session.query( 
+            func.count(Anomaly.anomaly_type).label('count')
+    ).filter(Anomaly.anomaly_type == anomaly_type).group_by(Anomaly.anomaly_type).all()
     obj2 = session.query(Anomaly.description, Anomaly.date_created).filter(Anomaly.anomaly_type == anomaly_type).order_by(Anomaly.date_created.desc()).first()
     if objs and obj2 is not None:
         result = {
