@@ -113,14 +113,14 @@ def process_messages():
                 
         if msg["type"] == "review" and msg["payload"]["rating"] < app_config["threshold"]["review"]:
                 review_body = msg["payload"]
-                logger.info(f"Review Anomaly detected, value: {review_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded")
+                logger.info(f"Review Anomaly detected, value: {review_body['rating']} Threshold of {app_config['threshold']['review']} exceeded")
                 session = DB_SESSION()
                 anomaly = Anomaly(
                             event_id=review_body['movie_id'],
                             trace_id=review_body['trace_id'],
                             event_type=msg["type"],
                             anomaly_type="tooLow",
-                            description=f"Movie Anomaly detected, value: {review_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded",
+                            description=f"Review Anomaly detected, value: {review_body['rating']} Threshold of {app_config['threshold']['review']} exceeded",
                             )
                 session.add(anomaly)
                 session.commit()
