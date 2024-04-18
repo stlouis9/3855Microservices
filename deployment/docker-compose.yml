@@ -121,6 +121,21 @@ services:
       - kafka
     networks:
       - "api.network"
+  anomaly_detector:
+    image: anomaly_detector
+    restart: always
+    ports:
+      - "8150"
+    environment:
+      - TARGET_ENV=test
+    volumes:
+      - /home/azureuser/config/anomaly_detector:/config
+      - /home/azureuser/logs:/logs
+      - anomaly_detector-db:/data
+    depends_on:
+      - kafka
+    networks:
+      - "api.network"
   dashboard:
     image: dashboard
     restart: always
@@ -150,5 +165,6 @@ volumes:
   my-db:
   processing-db:
   event_log-db:
+  anomaly_detector-db:
 networks:
   api.network:

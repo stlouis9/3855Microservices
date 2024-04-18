@@ -1,0 +1,11 @@
+version: 1
+datastore:
+  filename: anomaly.sqlite
+events:
+  hostname: kafka3855.westus3.cloudapp.azure.com
+  port: 9092
+  max_retry: 10
+  topic: events
+threshold:
+  movie: 170
+  review: 3.0
