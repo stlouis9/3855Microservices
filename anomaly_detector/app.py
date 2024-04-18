@@ -43,8 +43,8 @@ logger = logging.getLogger('basicLogger')
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File: %s" % log_conf_file)
 
-logger.info(f"Movie anomaly threshold: ${app_config['threshold']['movie']}" )
-logger.info(f"Review anomaly threshold: ${app_config['threshold']['review']}" )
+logger.info(f"Movie anomaly threshold: {app_config['threshold']['movie']}" )
+logger.info(f"Review anomaly threshold: {app_config['threshold']['review']}" )
 
 
 if not os.path.isfile(app_config["datastore"]["filename"]):
@@ -97,14 +97,14 @@ def process_messages():
 
         if msg["type"] == "movie" and msg["payload"]["runtime"] > app_config["threshold"]["movie"]:
                 movie_body = msg["payload"]
-                logger.info(f"Movie Anomaly detected, value: ${movie_body['runtime']} Threshold of ${app_config['threshold']['movie']} exceeded")
+                logger.info(f"Movie Anomaly detected, value: {movie_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded")
                 session = DB_SESSION()
                 anomaly = Anomaly(
                             movie_body['movie_id'],
                             movie_body['trace_id'],
                             msg["type"],
                             "tooHigh"
-                            f"Movie Anomaly detected, value: ${movie_body['runtime']} Threshold of ${app_config['threshold']['movie']} exceeded",
+                            f"Movie Anomaly detected, value: {movie_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded",
                 )
                 session.add(anomaly)
                 session.commit()
@@ -113,14 +113,14 @@ def process_messages():
                 
         if msg["type"] == "review" and msg["payload"]["rating"] < app_config["threshold"]["review"]:
                 review_body = msg["payload"]
-                logger.info(f"Review Anomaly detected, value: ${review_body['runtime']} Threshold of ${app_config['threshold']['movie']} exceeded")
+                logger.info(f"Review Anomaly detected, value: {review_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded")
                 session = DB_SESSION()
                 anomaly = Anomaly(
                             review_body['movie_id'],
                             review_body['trace_id'],
                             msg["type"],
                             "tooLow",
-                            f"Movie Anomaly detected, value: ${review_body['runtime']} Threshold of ${app_config['threshold']['movie']} exceeded",
+                            f"Movie Anomaly detected, value: {review_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded",
                 )
                 session.add(anomaly)
                 session.commit()
