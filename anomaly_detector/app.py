@@ -104,7 +104,7 @@ def process_messages():
                             movie_body['trace_id'],
                             msg["type"],
                             "tooHigh"
-                            f"Movie Anomaly detected, value: ${movie_body["runtime"]} Threshold of ${app_config['threshold']['movie']} exceeded",
+                            f"Movie Anomaly detected, value: ${movie_body['runtime']} Threshold of ${app_config['threshold']['movie']} exceeded",
                 )
                 session.add(anomaly)
                 session.commit()
@@ -120,7 +120,7 @@ def process_messages():
                             review_body['trace_id'],
                             msg["type"],
                             "tooLow",
-                            f"Movie Anomaly detected, value: ${review_body["runtime"]} Threshold of ${app_config['threshold']['movie']} exceeded",
+                            f"Movie Anomaly detected, value: ${review_body['runtime']} Threshold of ${app_config['threshold']['movie']} exceeded",
                 )
                 session.add(anomaly)
                 session.commit()
