@@ -100,12 +100,12 @@ def process_messages():
                 logger.info(f"Movie Anomaly detected, value: {movie_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded")
                 session = DB_SESSION()
                 anomaly = Anomaly(
-                            movie_body['movie_id'],
-                            movie_body['trace_id'],
-                            msg["type"],
-                            "tooHigh"
-                            f"Movie Anomaly detected, value: {movie_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded",
-                )
+                            event_id=movie_body['movie_id'],
+                            trace_id=movie_body['trace_id'],
+                            event_type=msg["type"],
+                            anomaly_type="tooHigh",
+                            description=f"Movie Anomaly detected, value: {movie_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded"
+                            )
                 session.add(anomaly)
                 session.commit()
                 session.close()
@@ -116,12 +116,12 @@ def process_messages():
                 logger.info(f"Review Anomaly detected, value: {review_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded")
                 session = DB_SESSION()
                 anomaly = Anomaly(
-                            review_body['movie_id'],
-                            review_body['trace_id'],
-                            msg["type"],
-                            "tooLow",
-                            f"Movie Anomaly detected, value: {review_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded",
-                )
+                            event_id=review_body['movie_id'],
+                            trace_id=review_body['trace_id'],
+                            event_type=msg["type"],
+                            anomaly_type="tooLow",
+                            description=f"Movie Anomaly detected, value: {review_body['runtime']} Threshold of {app_config['threshold']['movie']} exceeded",
+                            )
                 session.add(anomaly)
                 session.commit()
                 session.close()
