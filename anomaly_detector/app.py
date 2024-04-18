@@ -43,8 +43,8 @@ logger = logging.getLogger('basicLogger')
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File: %s" % log_conf_file)
 
-logger.info(f"Movie anomaly threshold: ${app_config["threshold"]["movie"]}" )
-logger.info(f"Review anomaly threshold: ${app_config["threshold"]["review"]}" )
+logger.info(f"Movie anomaly threshold: ${app_config['threshold']['movie']}" )
+logger.info(f"Review anomaly threshold: ${app_config['threshold']['review']}" )
 
 
 if not os.path.isfile(app_config["datastore"]["filename"]):
