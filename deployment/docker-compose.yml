@@ -159,6 +159,7 @@ services:
       - "audit_log"
       - "event_log"
       - "dashboard"
+      - "anomaly_detector"
     networks:
       - "api.network"
 volumes:

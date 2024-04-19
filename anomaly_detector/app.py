@@ -141,6 +141,7 @@ def get_anomaly_stats(anomaly_type):
         result = {}
         logger.error("No anomalies found")
     session.close()
+    logger.info(f"Query for {anomaly_type} statistics successful")
     return result, 200
 
 
